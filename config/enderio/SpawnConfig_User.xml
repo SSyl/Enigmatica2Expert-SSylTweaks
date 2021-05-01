@@ -47,6 +47,13 @@
 </entry>
 
 <entry id="FallenKnight" mobName="enderiozoo:fallenknight" rate="5" minGroupSize="1" maxGroupSize="4" remove="false">
+    <biomeFilter type="any">
+      <biome type="PLAINS" />
+      <biome type="NETHER" exclude="true" />
+      <biome type="END" exclude="true" />
+    </biomeFilter>
+    <dimensionExclude/>
+    <dimensionInclude name="overworld"/>
 </entry>
 
 <entry id="WitherWitch" mobName="enderiozoo:witherwitch" rate="5" minGroupSize="1" maxGroupSize="1" remove="true">
