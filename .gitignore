@@ -5,7 +5,6 @@ journeymap/*
 /crash-reports/
 /.mixin.out/
 /logs/
-/local/
 /libraries/
 /llibrary/
 /saves/
