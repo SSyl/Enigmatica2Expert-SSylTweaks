@@ -26,18 +26,22 @@
 		"result": "deny"
 	},
 	{
-    "mob": "quark:frog",
-    "mincount":"20",
-    "result": "deny"
+		"mob": "quark:frog",
+		"mincount":"20",
+		"result": "deny"
 	},
 	{
-    "mob": "quark:foxhound",
-    "mincount":"20",
-    "result": "deny"
+		"mob": "quark:foxhound",
+		"mincount":"20",
+		"result": "deny"
 	},
 	{
-	"dimension": -11325,
-	"mod": "animania",
-	"result": "deny"
+		"dimension": -11325,
+		"mod": "animania",
+		"result": "deny"
+	},
+	{
+		"mob": "iceandfire:if_cockatrice",
+		"result": "deny"
 	}
 ]
