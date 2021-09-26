@@ -39,4 +39,22 @@
 <entry id="EpicSquid" mobName="enderiozoo:epicsquid" creatureType="WATER_CREATURE" rate="1" minGroupSize="1" maxGroupSize="1" remove="true">
 </entry>
 
+<entry id="FallenKnight" mobName="enderiozoo:fallenknight" rate="10" minGroupSize="1" maxGroupSize="2">
+  <biomeFilter type="any">
+    <biome type="PLAINS" />
+    <biome type="NETHER" exclude="true" />
+    <biome type="END" exclude="true" />
+  </biomeFilter>
+  <dimensionExclude name="twilight_forest"/><!-- sic! TF uses its id for human readable name, too -->
+</entry>
+
+  <entry id="DireWolf" mobName="enderiozoo:direwolf" rate="10" minGroupSize="2" maxGroupSize="6">
+    <biomeFilter type="all">
+      <biome type="SNOWY" />
+      <biome type="CONIFEROUS" />
+      <biome type="NETHER" exclude="true" />
+      <biome type="END" exclude="true" />
+    </biomeFilter>
+  </entry>
+
 </SpawnConfig>
