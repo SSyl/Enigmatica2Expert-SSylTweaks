@@ -107,3 +107,5 @@ config/MemoryTester/
 minecraftinstance.json
 
 config/moresoundconfig.cfg
+
+config/Discord-Integration.toml
