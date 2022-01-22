@@ -4,7 +4,7 @@
         "enigmatica2":
         {
             "image" : "modpack:textures/gui/enigmatica2.png",
-            "posX" : -130,
+            "posX" : -90,
             "posY" : 15,
             "width" : 400,
             "height" : 64,
