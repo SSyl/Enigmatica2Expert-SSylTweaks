@@ -367,7 +367,7 @@ remakeChest("Any Chest", <minecraft:chest>, logsFiltered);
 	rh(<immersiveengineering:metal:26>);
 	rh(<immersiveengineering:metal:27>);
 	rh(<immersiveengineering:metal:28>);
-	rh(<plustic:invarnugget>);
+	#rh(<plustic:invarnugget>);
 	rh(<extendedcrafting:material:128>);
 	rh(<extendedcrafting:material:129>);
 	

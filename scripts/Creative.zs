@@ -45,7 +45,7 @@ import crafttweaker.item.IItemCondition;
 	var rocketFuel = <forge:bucketfilled>.withTag({FluidName: "rocket_fuel", Amount: 1000});
 	var stoneburnt = <extrautils2:decorativesolid:3>;
 	var cobble8x = <extrautils2:compressedcobblestone:7>;
-	var storage16m = <extracells:storage.component:3>;
+	var storage16m = <aeadditions:storage.component:3>;
 	var meChest = <appliedenergistics2:chest>;
 	var creativeTank = <mekanism:machineblock2:11>.withTag({tier: 4});
 	var creativeGasTank = <mekanism:gastank>.withTag({tier: 4});
@@ -187,13 +187,13 @@ var twilightForestMasterTrophy = <simple_trophies:trophy>.withTag({
 # Storage Drawers Unlimited Withdrawel Upgrade
 	mods.extendedcrafting.TableCrafting.addShaped(4, <storagedrawers:upgrade_creative:1> * 2, 
 	[[<ore:blockCrystalMatrix>, blackHoleUnit, ultCatalyst, ultCatalyst, <bigreactors:mineralanglesite>, ultCatalyst, ultCatalyst, blackHoleUnit, <ore:blockCrystalMatrix>], 
-	[blackHoleUnit, resonantFrame, resonantFrame, draconicChest, <extracells:storage.component:3>, draconicChest, resonantFrame, resonantFrame, blackHoleUnit], 
+	[blackHoleUnit, resonantFrame, resonantFrame, draconicChest, <aeadditions:storage.component:3>, draconicChest, resonantFrame, resonantFrame, blackHoleUnit], 
 	[ultCatalyst, resonantFrame, <ore:blockAethium>, <draconicevolution:chaotic_core>, benitoite, <draconicevolution:chaotic_core>, <ore:blockAethium>, resonantFrame, ultCatalyst], 
 	[ultCatalyst, draconicChest, creativeEssence, <rftools:powercell_creative>, <ore:ingotInfinity>, <ic2:te:86>, creativeEssence, draconicChest, ultCatalyst], 
-	[<bigreactors:mineralanglesite>, <extracells:storage.component:3>, benitoite, <environmentaltech:solar_cont_6>, twilightForestMasterTrophy, <environmentaltech:solar_cont_6>, benitoite, <extracells:storage.component:3>, <bigreactors:mineralanglesite>], 
+	[<bigreactors:mineralanglesite>, <aeadditions:storage.component:3>, benitoite, <environmentaltech:solar_cont_6>, twilightForestMasterTrophy, <environmentaltech:solar_cont_6>, benitoite, <aeadditions:storage.component:3>, <bigreactors:mineralanglesite>], 
 	[ultCatalyst, draconicChest, creativeEssence, creativeTank, <ore:ingotInfinity>, creativeGasTank, creativeEssence, draconicChest, ultCatalyst], 
 	[ultCatalyst, resonantFrame, <ore:blockAethium>, <draconicevolution:chaotic_core>, benitoite, <draconicevolution:chaotic_core>, <ore:blockAethium>, resonantFrame, ultCatalyst], 
-	[blackHoleUnit, resonantFrame, resonantFrame, draconicChest, <extracells:storage.component:3>, draconicChest, resonantFrame, resonantFrame, blackHoleUnit], 
+	[blackHoleUnit, resonantFrame, resonantFrame, draconicChest, <aeadditions:storage.component:3>, draconicChest, resonantFrame, resonantFrame, blackHoleUnit], 
 	[<ore:blockCrystalMatrix>, blackHoleUnit, ultCatalyst, ultCatalyst, <bigreactors:mineralanglesite>, ultCatalyst, ultCatalyst, blackHoleUnit, <ore:blockCrystalMatrix>]]);
 	
 	recipes.addShapeless("Creative Storage Upgrade Duplication", 

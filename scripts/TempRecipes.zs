@@ -1,7 +1,7 @@
 import crafttweaker.item.IItemStack;
 
 // These recipes are only temporary, used to "fix" bugs
-
+/* Testing to see if AE Additions fixes this stuff
 var extraCellsItemsToRemoveAndHide as IItemStack[] = [
 	<extracells:terminal.universal.wireless>.withTag({type: 0 as byte, modules: 23 as byte}),
 	<extracells:terminal.gas.wireless>.withTag({}),
@@ -27,3 +27,5 @@ var extraCellsItemsToRemoveAndHide as IItemStack[] = [
 for item in extraCellsItemsToRemoveAndHide {
 	mods.jei.JEI.removeAndHide(item);
 }
+
+*/

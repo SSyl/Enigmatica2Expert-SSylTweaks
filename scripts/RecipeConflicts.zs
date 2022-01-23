@@ -92,7 +92,7 @@ val marble = <ore:stoneMarble>;
 	recipes.remove(<immersiveengineering:storage:4>);
 	recipes.remove(<immersiveengineering:storage:7>);
 	recipes.remove(<immersiveengineering:storage:8>);
-	recipes.remove(<plustic:invarblock>);
+	#recipes.remove(<plustic:invarblock>);
 	recipes.remove(<ic2:ingot:2>);
 	recipes.remove(<ic2:ingot:3>);
 	recipes.remove(<ic2:ingot:4>);
