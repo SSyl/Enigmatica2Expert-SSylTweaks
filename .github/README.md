@@ -1,11 +1,5 @@
-<h1>Enigmatica 2: Expert</h1>
+<h1>Enigmatica 2: Expert -- SylTweaks Dev</h1>
 
-This is the official repository and issue-tracker for the modpack Enigmatica 2: Expert, for Minecraft 1.12.2
+This is a repo for some tweaks I made to E2E. It's unofficial and only used by a couple of friends of mine.
 
-[![Curse Forge](http://cf.way2muchnoise.eu/full_enigmatica2expert_downloads.svg)](https://minecraft.curseforge.com/projects/enigmatica2expert)
-
-<h2>Links</h2>
-
-* [Curseforge](https://minecraft.curseforge.com/projects/enigmatica2expert)
-
-* [Discord](https://discord.gg/HnWNd7X)
+Feel free to use my configs, scripts, or any changes I made and what not, but be aware I won't provide support for any of it.
