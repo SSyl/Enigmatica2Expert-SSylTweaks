@@ -2902,16 +2902,12 @@
             "ForgeCaps:10": {
               "astralsorcery:cap_item_amulet_holder:10": {}
             },
-            "id:8": "ironbackpacks:backpack",
+            "id:8": "thermalexpansion:satchel",
             "Count:3": 1,
-            "tag:10": {
-              "packInfo:10": {
-                "upgrade:9": {},
-                "type:8": "ironbackpacks:basic",
-                "spec:8": "NONE"
-              }
-            },
             "Damage:2": 0,
+            "tag:10": {
+              "Accessible:1": 1
+            },
             "OreDict:8": ""
           },
           "globalshare:1": 0,
@@ -2922,7 +2918,7 @@
           "ismain:1": 1,
           "repeat_relative:1": 1,
           "name:8": "Welcome",
-          "desc:8": "Welcome to Enigmatica 2: Expert! This modpack is designed to challenge the player through various means, especially harder recipes. I advice that you automate crafting of as much as possible, as early as possible. Things are going to get complicated. \n\nCheck the checkbox to get your starterkit.§d§d§r \n\nI suggest you make a Backpack out of the Tanned Leather \u0026 Wooden Frame.\n\nGood luck!§r"
+          "desc:8": "Welcome to Enigmatica 2: Expert! This modpack is designed to challenge the player through various means, especially harder recipes. I advise that you automate crafting as much as possible, as early as possible. Things are going to get complicated. \n\nCheck the checkbox to get your starterkit.§d§d§r \n\n You can upgrade the satchel and enchant it to hold more.\n\nGood luck!§r"
         }
       },
       "tasks:9": {
@@ -2973,18 +2969,12 @@
               "OreDict:8": ""
             },
             "4:10": {
-              "id:8": "backpack:tanned_leather",
-              "Count:3": 8,
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "5:10": {
-              "ForgeCaps:10": {
-                "astralsorcery:cap_item_amulet_holder:10": {}
-              },
-              "id:8": "backpack:backpack_frame",
+              "id:8": "thermalexpansion:satchel",
               "Count:3": 1,
               "Damage:2": 0,
+              "tag:10": {
+                "Accessible:1": 1
+              },
               "OreDict:8": ""
             }
           }
