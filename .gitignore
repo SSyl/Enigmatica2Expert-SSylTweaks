@@ -22,6 +22,7 @@ ChangelogGenerator.bat
 modpack_upload_settings.cfg
 ModpackUploadTool.bat
 
+
 # Client Configs
 config/InvTweaks.cfg
 config/MouseTweaks.cfg
@@ -52,8 +53,6 @@ dropt.log
 journeymapdefaults.firstrun
 *.zip
 astralsorcery/gatewayFilter/worldFilter.dat
-OpenComputersMod-1.7.3.146-lua53-native.64.dll
-OpenComputersMod-1.7.3.146-lua52-native.64.dll
 ModpackFileId.json
 LICENSE.md
 manifest.json
@@ -84,8 +83,6 @@ config/brandon3055/ProjectIntelligence/ModDocs/
 patchouli_data.json
 oldmanifest.json
 config/AppliedEnergistics2/items.csv
-OpenComputersMod-1.7.4.153-lua53-native.64.dll
-OpenComputersMod-1.7.4.153-lua52-native.64.dll
 ModpackUploader.ps1
 ModpackUploader.bat
 twitch-export-builder.exe
@@ -107,3 +104,5 @@ minecraftinstance.json
 config/moresoundconfig.cfg
 
 config/Discord-Integration.toml
+
+OpenComputers*.dll
