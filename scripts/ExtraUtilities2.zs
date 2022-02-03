@@ -88,7 +88,7 @@
 	recipes.remove(<extrautils2:angelring:*>);
 	recipes.addShaped("Angel Ring", 
 	<extrautils2:angelring>, 
-	[[<ore:plateDenseGold>, <<botania:flighttiara:*>, <ore:plateDenseGold>],
+	[[<ore:plateDenseGold>, <botania:flighttiara:*>, <ore:plateDenseGold>],
 	[<environmentaltech:modifier_creative_flight>, <extendedcrafting:material:40>, <environmentaltech:modifier_creative_flight>], 
 	[<ore:plateDenseGold>, <extrautils2:chickenring:1>.anyDamage(), <ore:plateDenseGold>]]);
 	
