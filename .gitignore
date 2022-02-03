@@ -1,6 +1,4 @@
 # Folders to ignore
-journeymap/*
-!journeymap/config
 /dumps/
 /crash-reports/
 /.mixin.out/
