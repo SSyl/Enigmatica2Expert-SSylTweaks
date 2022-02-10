@@ -41,7 +41,7 @@
         }
       },
       "amountPerChunk": 0.1,
-      "enable": false,
+      "enable": true,
       "grassBorderWith": {
         "block": "minecraft:grass",
         "properties": {

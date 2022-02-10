@@ -1,15 +1,11 @@
 {
-  "enableRain": true,
   "canGenerateRivers": true,
   "beachBiomeLocation": "minecraft:beaches",
-  "rainfall": 0.9,
   "skyColor": -1,
-  "guiColour": 10341488,
   "fogDensity": 1.0,
   "hasBiomeEssence": true,
   "variationBelow": 10.0,
   "variationAbove": 20.0,
-  "waterColor": 16777215,
   "seaFloorBlock": {
     "block": "minecraft:dirt",
     "properties": {
@@ -32,10 +28,8 @@
     }
   },
   "fogColor": -1,
-  "temperature": 0.95,
   "canGenerateVillages": false,
   "canSpawnInBiome": true,
-  "enableSnow": false,
   "generators": {
     "glowshrooms": {
       "with": {
@@ -148,18 +142,7 @@
       "enable": true
     },
     "topaz": {
-      "enable": true
-    },
-    "tiny_lily": {
-      "with": {
-        "block": "biomesoplenty:waterlily",
-        "properties": {
-          "variant": "tiny"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.5,
-      "enable": true
+      "enable": false
     },
     "sprouts": {
       "with": {

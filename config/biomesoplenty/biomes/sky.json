@@ -49,6 +49,13 @@
       "enable": false
     },
     "biome_essence": {
+      "minHeight": 4,
+      "with": {
+        "block": "biomesoplenty:biome_block",
+        "properties": {}
+      },
+      "amountPerChunk": 24.0,
+      "maxHeight": 32,
       "enable": true
     }
   }

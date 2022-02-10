@@ -40,7 +40,7 @@
       "enable": true
     },
     "amber": {
-      "enable": true
+      "enable": false
     },
     "roots": {
       "with": {

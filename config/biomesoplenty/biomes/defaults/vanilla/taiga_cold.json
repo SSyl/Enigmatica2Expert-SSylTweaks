@@ -45,7 +45,7 @@
       "enable": true
     },
     "tanzanite": {
-      "enable": true
+      "enable": false
     }
   }
 }

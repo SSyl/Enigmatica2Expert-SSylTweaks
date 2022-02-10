@@ -35,7 +35,20 @@
       "enable": true
     },
     "quicksand": {
-      "enable": true
+      "liquid": {
+        "block": "biomesoplenty:sand",
+        "properties": {
+          "level": "0"
+        }
+      },
+      "amountPerChunk": 0.2,
+      "enable": true,
+      "grassBorderWith": {
+        "block": "minecraft:grass",
+        "properties": {
+          "snowy": "false"
+        }
+      }
     },
     "roots": {
       "with": {
@@ -49,7 +62,7 @@
       "enable": true
     },
     "ruby": {
-      "enable": true
+      "enable": false
     }
   }
 }

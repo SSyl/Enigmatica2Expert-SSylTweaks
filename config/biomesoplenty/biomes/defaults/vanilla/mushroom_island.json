@@ -90,7 +90,7 @@
       "enable": true
     },
     "sapphire": {
-      "enable": true
+      "enable": false
     }
   }
 }

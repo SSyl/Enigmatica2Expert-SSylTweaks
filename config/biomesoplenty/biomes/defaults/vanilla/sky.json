@@ -46,7 +46,7 @@
       "enable": true
     },
     "amethyst": {
-      "enable": true
+      "enable": false
     },
     "biome_essence": {
       "minHeight": 4,
