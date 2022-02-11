@@ -86,7 +86,7 @@
       "generators": {}
     },
     "amber": {
-      "enable": false
+      "enable": true
     },
     "roots": {
       "with": {

@@ -74,7 +74,7 @@
       "enable": true
     },
     "malachite": {
-      "enable": false
+      "enable": true
     },
     "trees": {
       "amountPerChunk": 0.5,

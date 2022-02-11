@@ -34,7 +34,7 @@
       "generators": {}
     },
     "peridot": {
-      "enable": false
+      "enable": true
     },
     "roots": {
       "with": {

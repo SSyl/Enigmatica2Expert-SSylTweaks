@@ -62,7 +62,7 @@
       "enable": true
     },
     "ruby": {
-      "enable": false
+      "enable": true
     }
   }
 }

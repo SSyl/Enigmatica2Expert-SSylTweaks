@@ -56,7 +56,7 @@
       "generators": {}
     },
     "topaz": {
-      "enable": false
+      "enable": true
     },
     "roots": {
       "with": {
