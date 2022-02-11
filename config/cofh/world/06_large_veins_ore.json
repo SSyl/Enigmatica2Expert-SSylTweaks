@@ -1,18 +1,19 @@
 {
-	"populate": 
-		{
+	"populate": {
 		"large_vein_iron": {
+			"enabled": "true",
 			"distribution": "fractal",
 			"generator": {
 				"block": [
 					{
 						"name": "minecraft:iron_ore",
-						"metadata": 0,
 						"weight": 85
 					},
 					{
 						"name": "thermalfoundation:ore",
-						"metadata": 5,
+						"properties": {
+							"type": "nickel"
+						},
 						"weight": 15
 					}
 				],
@@ -38,17 +39,16 @@
 			}
 		},
 		"large_vein_coal": {
+			"enabled": "true",
 			"distribution": "fractal",
 			"generator": {
 				"block": [
 					{
 						"name": "minecraft:coal_ore",
-						"metadata": 0,
 						"weight": 97
 					},
 					{
 						"name": "minecraft:diamond_ore",
-						"metadata": 0,
 						"weight": 3
 					}
 				],
@@ -74,17 +74,16 @@
 			}
 		},
 		"large_vein_redstone": {
+			"enabled": "true",
 			"distribution": "fractal",
 			"generator": {
 				"block": [
 					{
 						"name": "minecraft:redstone_ore",
-						"metadata": 0,
 						"weight": 90
 					},
 					{
 						"name": "minecraft:lapis_ore",
-						"metadata": 0,
 						"weight": 10
 					}
 				],
@@ -110,18 +109,20 @@
 			}
 		},
 		"large_vein_copper_gold": {
+			"enabled": "true",
 			"distribution": "fractal",
 			"generator": {
 				"block": [
 					
 					{
 						"name": "thermalfoundation:ore",
-						"metadata": 0,
+						"properties": {
+							"type": "copper"
+						},
 						"weight": 85
 					},
 					{
 						"name": "minecraft:gold_ore",
-						"metadata": 0,
 						"weight": 15
 					}
 				],
@@ -147,22 +148,29 @@
 			}
 		},
 		"large_vein_tin_silver_lead": {
+			"enabled": "true",
 			"distribution": "fractal",
 			"generator": {
 				"block": [
 					{
 						"name": "thermalfoundation:ore",
-						"metadata": 1,
+						"properties": {
+							"type": "tin"
+						},
 						"weight": 70
 					},
 					{
 						"name": "thermalfoundation:ore",
-						"metadata": 2,
+						"properties": {
+							"type": "silver"
+						},
 						"weight": 15
 					},
 					{
 						"name": "thermalfoundation:ore",
-						"metadata": 3,
+						"properties": {
+							"type": "lead"
+						},
 						"weight": 15
 					}
 				],

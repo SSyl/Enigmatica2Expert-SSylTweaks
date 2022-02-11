@@ -2,9 +2,15 @@
 	"dependencies": "thermalfoundation",
 	"populate": {
 		"copper": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": "thermalfoundation:ore",
+				"block": {
+					"name": "thermalfoundation:ore",
+					"properties": {
+						"type": "copper"
+					}
+				},
 				"material": "minecraft:stone",
 				"cluster-size": 9
 			},
@@ -22,11 +28,14 @@
 			}
 		},
 		"tin": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "thermalfoundation:ore",
-					"metadata": 1
+					"properties": {
+						"type": "tin"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 8
@@ -45,11 +54,14 @@
 			}
 		},
 		"aluminum": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "thermalfoundation:ore",
-					"metadata": 4
+					"properties": {
+						"type": "aluminum"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 5
@@ -68,17 +80,22 @@
 			}
 		},
 		"silver": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": [
 					{
 						"name": "thermalfoundation:ore",
-						"metadata": 2,
+						"properties": {
+							"type": "silver"
+						},
 						"weight": 80
 					},
 					{
 						"name": "thermalfoundation:ore",
-						"metadata": 3,
+						"properties": {
+							"type": "lead"
+						},
 						"weight": 20
 					}
 				],
@@ -99,17 +116,22 @@
 			}
 		},
 		"lead": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": [
 					{
 						"name": "thermalfoundation:ore",
-						"metadata": 3,
+						"properties": {
+							"type": "lead"
+						},
 						"weight": 90
 					},
 					{
 						"name": "thermalfoundation:ore",
-						"metadata": 2,
+						"properties": {
+							"type": "silver"
+						},
 						"weight": 10
 					}
 				],
@@ -131,12 +153,15 @@
 			}
 		},
 		"nickel": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": [
 					{
 						"name": "thermalfoundation:ore",
-						"metadata": 5,
+						"properties": {
+							"type": "nickel"
+						},
 						"weight": 65
 					},
 					{
@@ -161,11 +186,14 @@
 			}
 		},
 		"platinum": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "thermalfoundation:ore",
-					"metadata": 6
+					"properties": {
+						"type": "platinum"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 1
@@ -184,9 +212,15 @@
 			}
 		},
 		"copper_ocean": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": "thermalfoundation:ore",
+				"block": {
+					"name": "thermalfoundation:ore",
+					"properties": {
+						"type": "copper"
+					}
+				},
 				"material": "minecraft:stone",
 				"cluster-size": 15
 			},
@@ -212,9 +246,15 @@
 			}
 		},
 		"copper_high": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": "thermalfoundation:ore",
+				"block": {
+					"name": "thermalfoundation:ore",
+					"properties": {
+						"type": "copper"
+					}
+				},
 				"material": "minecraft:stone",
 				"cluster-size": 10
 			},

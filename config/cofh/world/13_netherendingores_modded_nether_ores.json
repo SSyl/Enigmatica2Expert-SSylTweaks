@@ -2,9 +2,15 @@
 	"dependencies": "netherendingores",
 	"populate": {
 		"nether-aluminum": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": "netherendingores:ore_nether_modded_1",
+				"block": {
+					"name": "netherendingores:ore_nether_modded_1",
+					"properties": {
+						"blocks": "aluminum_ore"
+					}
+				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 6
 			},
@@ -21,11 +27,14 @@
 			}
 		},
 		"nether-copper": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_modded_1",
-					"metadata": 1
+					"properties": {
+						"blocks": "copper_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 8
@@ -43,11 +52,14 @@
 			}
 		},
 		"nether-lead": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_modded_1",
-					"metadata": 3
+					"properties": {
+						"blocks": "lead_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 6
@@ -65,11 +77,14 @@
 			}
 		},
 		"nether-nickel": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_modded_1",
-					"metadata": 5
+					"properties": {
+						"blocks": "nickel_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 6
@@ -87,11 +102,14 @@
 			}
 		},
 		"nether-platinum": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_modded_1",
-					"metadata": 6
+					"properties": {
+						"blocks": "platinum_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 3
@@ -109,11 +127,14 @@
 			}
 		},
 		"nether-silver": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_modded_1",
-					"metadata": 7
+					"properties": {
+						"blocks": "silver_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 5
@@ -131,11 +152,14 @@
 			}
 		},
 		"nether-tin": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_modded_1",
-					"metadata": 8
+					"properties": {
+						"blocks": "tin_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 8
@@ -153,11 +177,14 @@
 			}
 		},
 		"nether-certus": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_modded_1",
-					"metadata": 9
+					"properties": {
+						"blocks": "certus_quartz_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 7
@@ -175,11 +202,14 @@
 			}
 		},
 		"nether-charged-certus": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_modded_1",
-					"metadata": 10
+					"properties": {
+						"blocks": "charged_certus_quartz_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 2
@@ -197,11 +227,14 @@
 			}
 		},
 		"nether-osmium": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_modded_1",
-					"metadata": 11
+					"properties": {
+						"blocks": "osmium_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 3
@@ -219,11 +252,14 @@
 			}
 		},
 		"nether-uranium": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_modded_1",
-					"metadata": 12
+					"properties": {
+						"blocks": "uranium_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 4
