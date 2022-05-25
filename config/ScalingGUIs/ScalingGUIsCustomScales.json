@@ -5,9 +5,9 @@
   "customIndividualGuiScales": {},
   "customGroupGuiScales": {},
   "loggedGuiClassNames": [
+    "net.optifine.gui.GuiOtherSettingsOF",
     "lumien.custommainmenu.gui.GuiCustom",
     "net.minecraft.client.gui.GuiOptions",
-    "net.optifine.gui.GuiOtherSettingsOF",
     "net.minecraft.client.gui.GuiVideoSettings",
     "spazley.scalingguis.gui.guiconfig.GuiConfigSG"
   ],

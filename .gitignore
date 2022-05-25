@@ -106,3 +106,7 @@ config/moresoundconfig.cfg
 config/Discord-Integration.toml
 
 OpenComputers*.dll
+
+config/oauth.cfg
+
+config/craftpresence.properties
