@@ -1,0 +1,49 @@
+[
+  {
+    "sourceFilePath": "options.txt",
+    "destinationFilePath": "options.txt",
+    "clientSide": true,
+    "serverSide": false
+  },
+  {
+    "sourceFilePath": "optionsof.txt",
+    "destinationFilePath": "optionsof.txt",
+    "clientSide": true,
+    "serverSide": false
+  },
+  {
+    "sourceFilePath": "sidebar_buttons.json",
+    "destinationFilePath": "local/client/sidebar_buttons.json",
+    "clientSide": true,
+    "serverSide": false
+  },  
+  {
+    "sourceFilePath": "journeymap.core.config",
+    "destinationFilePath": "journeymap/config/5.7/journeymap.core.config",
+    "clientSide": true,
+    "serverSide": true
+  },
+  {
+    "sourceFilePath": "journeymap.fullmap.config",
+    "destinationFilePath": "journeymap/config/5.7/journeymap.fullmap.config",
+    "clientSide": true,
+    "serverSide": false
+  },
+  {
+    "sourceFilePath": "journeymap.minimap.config",
+    "destinationFilePath": "journeymap/config/5.7/journeymap.minimap.config",
+    "clientSide": true,
+    "serverSide": false
+  },
+  {
+    "sourceFilePath": "journeymap.server.default.config",
+    "destinationFilePath": "journeymap/server/5.7/journeymap.server.default.config",
+    "clientSide": true,
+    "serverSide": true
+  },
+  {
+    "sourceFilePath": "journeymap.server.global.config",
+    "destinationFilePath": "journeymap/server/5.7/journeymap.server.global.config",
+    "clientSide": true,
+    "serverSide": true
+  }]

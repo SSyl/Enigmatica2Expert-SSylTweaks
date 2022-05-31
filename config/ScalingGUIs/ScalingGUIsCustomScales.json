@@ -5,10 +5,15 @@
   "customIndividualGuiScales": {},
   "customGroupGuiScales": {},
   "loggedGuiClassNames": [
-    "net.optifine.gui.GuiOtherSettingsOF",
+    "net.optifine.gui.GuiPerformanceSettingsOF",
+    "net.optifine.gui.GuiQualitySettingsOF",
+    "net.optifine.gui.GuiDetailSettingsOF",
+    "net.minecraft.client.gui.GuiWorldSelection",
     "lumien.custommainmenu.gui.GuiCustom",
     "net.minecraft.client.gui.GuiOptions",
+    "net.optifine.gui.GuiOtherSettingsOF",
     "net.minecraft.client.gui.GuiVideoSettings",
+    "net.minecraftforge.fml.client.config.GuiConfig",
     "spazley.scalingguis.gui.guiconfig.GuiConfigSG"
   ],
   "blacklistGuiClassNames": [
