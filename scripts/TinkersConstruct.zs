@@ -100,6 +100,9 @@ for slime, dirts in slimeDirts {
 	[<ore:blockSeared>, <tconstruct:smeltery_controller>, <ore:blockSeared>], 
 	[<ore:blockSeared>, <ore:blockSeared>, <ore:blockSeared>]]);	
 
+#Tinkers Complement Melter Destablized Redstone Removal
+mods.tcomplement.Overrides.removeRecipe(<liquid:redstone>);
+
 # Large Plates in Immersive Engineering Metal Press
 	#OutputStack, InputStack, MoldStack, Energy, SizeValue
 	mods.immersiveengineering.MetalPress.addRecipe(<tconstruct:large_plate>.withTag({Material: "xu_demonic_metal"}), <extrautils2:simpledecorative:1>, <immersiveengineering:mold>, 16000, 1);
