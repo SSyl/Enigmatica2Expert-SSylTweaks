@@ -11,7 +11,6 @@ var categoriesToHide as string[] = [
 	"Painter",
 	"forestry.bottler",
 	"jeresources.villager",
-	"tinker_io:smart_output",
 	"ic2.scrapbox",
 	"EIOTank",
 	"xu2_machine_extrautils2:furnace",
