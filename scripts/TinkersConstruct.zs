@@ -43,9 +43,6 @@ for slime, dirts in slimeDirts {
 	mods.tconstruct.Melting.removeRecipe(<liquid:bronze>, <ic2:pipe>);
 	mods.tconstruct.Melting.removeRecipe(<liquid:steel>, <ic2:pipe:1>);
 
-# Prevent Smart Output from instantly breaking (setting it to same hardness as Smeltery Controllers)
-	<tinker_io:smart_output>.hardness = <tconstruct:smeltery_controller>.hardness;
-
 # Cobalt Block Unification
 	mods.tconstruct.Casting.removeBasinRecipe(<chisel:blockcobalt>);
 	mods.tconstruct.Casting.addBasinRecipe(<tconstruct:metal>, null, <liquid:cobalt>, 1296);
@@ -199,23 +196,6 @@ for item in coals {
 	[[<minecraft:lead>, <tconstruct:slime_congealed:4>, <minecraft:lead>],
 	[<ore:slimeballMagma>, <minecraft:bow>.anyDamage(), <ore:slimeballMagma>], 
 	[null, <ore:slimeballMagma>, null]]);
-
-# Recipes to remove 
-	var recipesToRemove = [
-	<tinker_io:fuel_input_machine>,
-	<tinker_io:what_a_beautiful_block>,
-	<tinker_io:ore_crusher>,
-	<tinker_io:stirling_engine>,
-	<tinker_io:speedupg>,
-	<tinker_io:solidfuel>,
-	<tinker_io:upg:6>,
-	<tinker_io:cd_lonesome_avenue>,
-	<tinker_io:crushed_ore>
-	] as IItemStack[];
-	
-	for items in recipesToRemove {
-		rh(items);
-	}
 	
 # *======= Fuels =======*
 
