@@ -2,17 +2,7 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 4,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 5,
-    "0chance0": 299.3,
-    "1chance0": 333.69998,
-    "2chance0": 353.625,
-    "3chance0": 366.45,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "rftoolsdim:fake_gravel",
@@ -707,17 +697,7 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 10,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 11,
-    "0chance0": 298.075,
-    "1chance0": 332.325,
-    "2chance0": 356.6,
-    "3chance0": 365.25,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "actuallyadditions:block_colored_lamp_on",
@@ -782,17 +762,7 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 12,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 13,
-    "0chance0": 301.2,
-    "1chance0": 332.55,
-    "2chance0": 357.85,
-    "3chance0": 367.45,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "forestry:resources",
@@ -902,17 +872,7 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 13,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 14,
-    "0chance0": 301.42502,
-    "1chance0": 333.525,
-    "2chance0": 355.975,
-    "3chance0": 367.72498,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "actuallyadditions:block_colored_lamp_on",
@@ -962,17 +922,7 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 3,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 4,
-    "0chance0": 296.7,
-    "1chance0": 331.425,
-    "2chance0": 355.0,
-    "3chance0": 367.75,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "actuallyadditions:block_colored_lamp_on",
@@ -1697,17 +1647,7 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 1,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 2,
-    "0chance0": 300.4,
-    "1chance0": 333.625,
-    "2chance0": 354.075,
-    "3chance0": 365.17502,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "thaumcraft:crystal_aqua",
@@ -2272,17 +2212,7 @@
   {
     "name": "minecraft:glass",
     "meta": 0,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 0,
-    "0chance0": 301.75,
-    "1chance0": 334.175,
-    "2chance0": 355.27502,
-    "3chance0": 366.07498,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "randomthings:coloredgrass",
@@ -2625,21 +2555,6 @@
     "3pair0": "{\n  \"left\": 2,\n  \"right\": 9\n}"
   },
   {
-    "name": "cyclicmagic:nether_emerald_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:emerald",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 133.32501,
-    "2chance0": 175.55,
-    "3chance0": 217.1,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
     "name": "thaumcraft:taint_rock",
     "meta": 0,
     "length": 1,
@@ -2653,21 +2568,6 @@
     "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "cyclicmagic:end_iron_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:iron_nugget",
-    "meta0": 0,
-    "0chance0": 848.525,
-    "1chance0": 1155.35,
-    "2chance0": 1520.925,
-    "3chance0": 1860.9751,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 16\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 32\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 48\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 64\n}"
   },
   {
     "name": "thaumcraft:loot_urn_common",
@@ -3192,32 +3092,7 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 0,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 1,
-    "0chance0": 300.44998,
-    "1chance0": 332.82498,
-    "2chance0": 358.3,
-    "3chance0": 366.1,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
-  },
-  {
-    "name": "cyclicmagic:peat_baked",
-    "meta": 0,
-    "length": 1,
-    "name0": "cyclicmagic:peat_fuel",
-    "meta0": 0,
-    "0chance0": 148.22499,
-    "1chance0": 148.625,
-    "2chance0": 150.025,
-    "3chance0": 150.3,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}"
+    "length": 0
   },
   {
     "name": "thermalfoundation:ore_fluid",
@@ -3237,32 +3112,7 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 7,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 8,
-    "0chance0": 297.1,
-    "1chance0": 334.475,
-    "2chance0": 355.875,
-    "3chance0": 367.0,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
-  },
-  {
-    "name": "cyclicmagic:nether_redstone_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:redstone",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 132.725,
-    "2chance0": 176.125,
-    "3chance0": 220.37498,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "minecraft:web",
@@ -3327,17 +3177,7 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 2,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 3,
-    "0chance0": 298.55002,
-    "1chance0": 333.05,
-    "2chance0": 356.5,
-    "3chance0": 365.875,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "minecraft:bookshelf",
@@ -3402,17 +3242,7 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 15,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 16,
-    "0chance0": 301.0,
-    "1chance0": 334.85,
-    "2chance0": 356.69998,
-    "3chance0": 366.225,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "minecraft:grass",
@@ -3432,17 +3262,7 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 5,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 6,
-    "0chance0": 298.175,
-    "1chance0": 333.34998,
-    "2chance0": 354.4,
-    "3chance0": 366.0,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "biomesoplenty:ash_block",
@@ -3477,32 +3297,12 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 14,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 15,
-    "0chance0": 299.6,
-    "1chance0": 334.475,
-    "2chance0": 356.9,
-    "3chance0": 366.59998,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "minecraft:stained_glass",
     "meta": 8,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 9,
-    "0chance0": 299.875,
-    "1chance0": 333.55,
-    "2chance0": 354.5,
-    "3chance0": 365.625,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "biomesoplenty:crystal",
@@ -3652,47 +3452,12 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 6,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 7,
-    "0chance0": 297.575,
-    "1chance0": 333.1,
-    "2chance0": 357.05,
-    "3chance0": 367.32498,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "minecraft:stained_glass",
     "meta": 9,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 10,
-    "0chance0": 296.825,
-    "1chance0": 335.7,
-    "2chance0": 357.94998,
-    "3chance0": 366.525,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
-  },
-  {
-    "name": "cyclicmagic:end_gold_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:gold_ingot",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 134.5,
-    "2chance0": 172.025,
-    "3chance0": 220.2,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "extrautils2:ironwood_leaves",
@@ -3765,21 +3530,6 @@
     "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
-    "name": "cyclicmagic:end_coal_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:coal",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 132.05,
-    "2chance0": 174.45,
-    "3chance0": 220.925,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
     "name": "thermalfoundation:ore_fluid",
     "meta": 3,
     "length": 1,
@@ -3797,17 +3547,7 @@
   {
     "name": "minecraft:stained_glass",
     "meta": 11,
-    "length": 1,
-    "name0": "quark:glass_shards",
-    "meta0": 12,
-    "0chance0": 300.0,
-    "1chance0": 333.325,
-    "2chance0": 355.45,
-    "3chance0": 365.9,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
+    "length": 0
   },
   {
     "name": "minecraft:sea_lantern",
@@ -3885,21 +3625,6 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
-    "name": "cyclicmagic:nether_lapis_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:dye",
-    "meta0": 4,
-    "0chance0": 200.67502,
-    "1chance0": 266.925,
-    "2chance0": 349.95,
-    "3chance0": 449.35004,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 6\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 9\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 12\n}"
-  },
-  {
     "name": "minecraft:grass_path",
     "meta": 0,
     "length": 1,
@@ -3973,21 +3698,6 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "cyclicmagic:nether_gold_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:gold_nugget",
-    "meta0": 0,
-    "0chance0": 247.875,
-    "1chance0": 334.82498,
-    "2chance0": 446.025,
-    "3chance0": 555.5,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 8\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 12\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 16\n}"
   },
   {
     "name": "biomesoplenty:plant_0",
@@ -4350,21 +4060,6 @@
     "3pair0": "{\n  \"left\": 4,\n  \"right\": 32\n}"
   },
   {
-    "name": "cyclicmagic:end_redstone_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:redstone",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 133.52501,
-    "2chance0": 174.55,
-    "3chance0": 221.525,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
     "name": "rftoolsdim:fake_sand",
     "meta": 0,
     "length": 1,
@@ -4395,21 +4090,6 @@
     "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
-    "name": "cyclicmagic:nether_coal_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:coal",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 132.0,
-    "2chance0": 174.825,
-    "3chance0": 218.72499,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
     "name": "minecraft:leaves",
     "meta": 0,
     "length": 1,
@@ -4438,21 +4118,6 @@
     "1pair0": "{\n  \"left\": 3,\n  \"right\": 4\n}",
     "2pair0": "{\n  \"left\": 3,\n  \"right\": 8\n}",
     "3pair0": "{\n  \"left\": 3,\n  \"right\": 12\n}"
-  },
-  {
-    "name": "cyclicmagic:nether_iron_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:iron_nugget",
-    "meta0": 0,
-    "0chance0": 658.825,
-    "1chance0": 871.94995,
-    "2chance0": 1113.25,
-    "3chance0": 1451.975,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 12\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 24\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 36\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 48\n}"
   },
   {
     "name": "extrautils2:ironwood_leaves",
@@ -4715,21 +4380,6 @@
     "3pair1": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
-    "name": "cyclicmagic:end_diamond_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:diamond",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 132.175,
-    "2chance0": 176.0,
-    "3chance0": 221.55002,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
     "name": "quark:roots_white_flower",
     "meta": 0,
     "length": 1,
@@ -4803,51 +4453,6 @@
     "1pair0": "{\n  \"left\": 2,\n  \"right\": 8\n}",
     "2pair0": "{\n  \"left\": 2,\n  \"right\": 12\n}",
     "3pair0": "{\n  \"left\": 2,\n  \"right\": 16\n}"
-  },
-  {
-    "name": "quark:biotite_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "quark:biotite",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 133.59999,
-    "2chance0": 174.77501,
-    "3chance0": 218.2,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
-    "name": "cyclicmagic:nether_diamond_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:diamond",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 133.59999,
-    "2chance0": 175.975,
-    "3chance0": 221.95001,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
-    "name": "cyclicmagic:end_emerald_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:emerald",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 133.45,
-    "2chance0": 175.075,
-    "3chance0": 220.97499,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
     "name": "thaumcraft:loot_crate_common",
@@ -5068,21 +4673,6 @@
     "1pair1": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "2pair1": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "3pair1": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "cyclicmagic:end_lapis_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:dye",
-    "meta0": 4,
-    "0chance0": 200.575,
-    "1chance0": 270.225,
-    "2chance0": 349.67502,
-    "3chance0": 447.34998,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 6\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 9\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 12\n}"
   },
   {
     "name": "rftools:dimensional_shard_ore",
