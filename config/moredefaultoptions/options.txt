@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["NoMoreMeows.zip","LessSadWolfNoises.zip","IE Breaker Switch Sound.zip","CreativeMusic.zip","SSylTweaks Bibliocraft Paintings.zip"]
+resourcePacks:["NoMoreMeows.zip","LessSadWolfNoises.zip","IE Breaker Switch Sound.zip","CreativeMusic.zip","SOLCarrotTooltipChange","SSylTweaks Bibliocraft Paintings.zip"]
 incompatibleResourcePacks:[]
 lastServer:127.0.0.1
 lang:en_us
@@ -93,15 +93,7 @@ key_Side Inventory Key:0
 key_Hub Expand Key:45
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
-key_key.craftpresence.config_keycode.name:0
 key_keybind.baublesinventory:48
-key_Open Menu:0
-key_Toggle Freeze Effect:0
-key_Enable/Disable:0
-key_Kill Particles:0
-key_Blacklist Block:0
-key_quark.keybind.lockBuilding:0
-key_quark.keybind.toggleAutojump:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.chestSort:0
 key_quark.keybind.chestDropoff:0
@@ -109,6 +101,8 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
+key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
 key_key.toggle_shaders:0
 key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
@@ -123,6 +117,11 @@ key_key.previous_item.desc:0
 key_key.open_danknull.desc:0
 key_key.togglehud.desc:0
 key_key.xu2.searchforitems:20
+key_Open Menu:0
+key_Toggle Freeze Effect:0
+key_Enable/Disable:0
+key_Kill Particles:0
+key_Blacklist Block:0
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:0
 key_ingameinfoxml.key.toggle:0
@@ -153,34 +152,6 @@ key_key.cycle_magnet_mode.desc:0
 key_key.xtones.scroll:42
 key_key.narrator:0
 key_smoothfont.key.guiOpen:199
-key_mod.chiselsandbits.chiselmode.single:0
-key_mod.chiselsandbits.chiselmode.snap2:0
-key_mod.chiselsandbits.chiselmode.snap4:0
-key_mod.chiselsandbits.chiselmode.snap8:0
-key_mod.chiselsandbits.chiselmode.line:0
-key_mod.chiselsandbits.chiselmode.plane:0
-key_mod.chiselsandbits.chiselmode.connected_plane:0
-key_mod.chiselsandbits.chiselmode.cube_small:0
-key_mod.chiselsandbits.chiselmode.cube_medium:0
-key_mod.chiselsandbits.chiselmode.cube_large:0
-key_mod.chiselsandbits.chiselmode.same_material:0
-key_mod.chiselsandbits.chiselmode.drawn_region:0
-key_mod.chiselsandbits.chiselmode.connected_material:0
-key_mod.chiselsandbits.positivepatternmode.replace:0
-key_mod.chiselsandbits.positivepatternmode.additive:0
-key_mod.chiselsandbits.positivepatternmode.placement:0
-key_mod.chiselsandbits.positivepatternmode.impose:0
-key_mod.chiselsandbits.tapemeasure.bit:0
-key_mod.chiselsandbits.tapemeasure.block:0
-key_mod.chiselsandbits.tapemeasure.distance:0
-key_mod.chiselsandbits.other.mode:56
-key_mod.chiselsandbits.other.rotate.ccw:0
-key_mod.chiselsandbits.other.rotate.cw:0
-key_mod.chiselsandbits.other.pickbit:0
-key_mod.chiselsandbits.other.offgrid:0
-key_mod.chiselsandbits.other.undo:0
-key_mod.chiselsandbits.other.redo:0
-key_mod.chiselsandbits.other.add_to_clipboard:0
 key_key.cofh.multimode:47
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -230,6 +201,34 @@ key_key.connected_area:0
 key_key.rotate_mirror:0
 key_key.material_list:50
 key_key.carry.desc:42
+key_mod.chiselsandbits.chiselmode.single:0
+key_mod.chiselsandbits.chiselmode.snap2:0
+key_mod.chiselsandbits.chiselmode.snap4:0
+key_mod.chiselsandbits.chiselmode.snap8:0
+key_mod.chiselsandbits.chiselmode.line:0
+key_mod.chiselsandbits.chiselmode.plane:0
+key_mod.chiselsandbits.chiselmode.connected_plane:0
+key_mod.chiselsandbits.chiselmode.cube_small:0
+key_mod.chiselsandbits.chiselmode.cube_medium:0
+key_mod.chiselsandbits.chiselmode.cube_large:0
+key_mod.chiselsandbits.chiselmode.same_material:0
+key_mod.chiselsandbits.chiselmode.drawn_region:0
+key_mod.chiselsandbits.chiselmode.connected_material:0
+key_mod.chiselsandbits.positivepatternmode.replace:0
+key_mod.chiselsandbits.positivepatternmode.additive:0
+key_mod.chiselsandbits.positivepatternmode.placement:0
+key_mod.chiselsandbits.positivepatternmode.impose:0
+key_mod.chiselsandbits.tapemeasure.bit:0
+key_mod.chiselsandbits.tapemeasure.block:0
+key_mod.chiselsandbits.tapemeasure.distance:0
+key_mod.chiselsandbits.other.mode:56
+key_mod.chiselsandbits.other.rotate.ccw:0
+key_mod.chiselsandbits.other.rotate.cw:0
+key_mod.chiselsandbits.other.pickbit:0
+key_mod.chiselsandbits.other.offgrid:0
+key_mod.chiselsandbits.other.undo:0
+key_mod.chiselsandbits.other.redo:0
+key_mod.chiselsandbits.other.add_to_clipboard:0
 key_Options Gui:0
 key_key.colytra.toggle.desc:34
 key_key.refinedstorage.focusSearchBar:15
@@ -265,8 +264,6 @@ key_keybinding.extrabitmanipulation.control:0
 key_keybinding.extrabitmanipulation.alt:45
 key_key.reelIn:203
 key_key.reelOut:205
-key_FpsReducer.key.guiOpen:0
-key_FpsReducer.key.forceIdle:0
 key_key.integrateddynamics.logic_programmer_focus_search:33:ALT
 key_key.integrateddynamics.logic_programmer_open_rename:19:ALT
 key_key.porterNextDestination:27
