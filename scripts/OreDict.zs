@@ -8,8 +8,6 @@ import mods.jei.JEI.removeAndHide as rh;
 
 <ore:blockYellorium>.add(<immersiveengineering:storage:5>);	
 
-<ore:chipDiamond>.add(<extrabitmanipulation:diamond_nugget>);
-
 # Oredicts for pressure plates
 var pressurePlates as IItemStack[] = [
 	<twilightforest:twilight_oak_plate>,
