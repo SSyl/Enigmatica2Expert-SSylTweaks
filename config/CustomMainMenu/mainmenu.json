@@ -4,38 +4,38 @@
         "enigmatica2":
         {
             "image" : "modpack:textures/gui/enigmatica2.png",
-            "posX" : -90,
-            "posY" : 15,
-            "width" : 400,
-            "height" : 64,
-            "alignment" : "top_center"
+            "posX" : -20,
+            "posY" : -100,
+            "width" : 200,
+            "height" : 32,
+            "alignment" : "center"
         },
         "expert":
         {
             "image" : "modpack:textures/gui/expert.png",
-            "posX" : -15,
-            "posY" : 80,
-            "width" : 200,
-            "height" : 51,
-            "alignment" : "top_center"
+            "posX" : 20,
+            "posY" : -40,
+            "width" : 125,
+            "height" : 32,
+            "alignment" : "center"
         },
         "2":
         {
             "image" : "modpack:textures/gui/2.png",
-            "posX" : 265,
-            "posY" : 28,
-            "width" : 36,
-            "height" : 50,
-            "alignment" : "top_center"
+            "posX" : 75,
+            "posY" : -65,
+            "width" : 18,
+            "height" : 25,
+            "alignment" : "center"
         },
         "ssylTweaks":
         {
             "image" : "modpack:textures/gui/ssyltweaks.png",
-            "posX" : -65,
-            "posY" : 130,
-            "width" : 310,
-            "height" : 70,
-            "alignment" : "top_center"
+            "posX" : -28,
+            "posY" : -5,
+            "width" : 220,
+            "height" : 30,
+            "alignment" : "center"
         },
         "transparentBox":
         {
@@ -139,7 +139,7 @@
             "action": {
                 "type": "quit"
             }
-        }       
+        }        
     },
     
     "labels": {
