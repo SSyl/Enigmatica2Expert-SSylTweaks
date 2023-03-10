@@ -45,6 +45,7 @@ import mods.hungertweaker.FoodValues;
 #Coffee
 <actuallyadditions:item_coffee:*>.foodValues.hunger = 2;
 <actuallyadditions:item_coffee:*>.foodValues.saturationModifier = 3;
+
 <animania:plain_omelette>.foodValues.hunger = 3;
 <animania:truffle_soup>.foodValues.hunger = 4;
 <animania:chocolate_truffle>.foodValues.hunger = 3;
@@ -59,3 +60,22 @@ import mods.hungertweaker.FoodValues;
 <animania:cooked_horse>.foodValues.hunger = 4;
 <animania:cooked_chevon>.foodValues.hunger = 3;
 <animania:cooked_prime_chevon>.foodValues.hunger = 4;
+
+<betteranimalsplus:venisonraw>.foodValues.hunger = 1;
+<betteranimalsplus:venisoncooked>.foodValues.hunger = 3;
+<betteranimalsplus:venisoncooked>.foodValues.saturationModifier = 1;
+<betteranimalsplus:pheasantraw>.foodValues.hunger = 1;
+<betteranimalsplus:pheasantcooked>.foodValues.hunger = 3;
+<betteranimalsplus:pheasantcooked>.foodValues.saturationModifier = 1;
+<betteranimalsplus:crab_meat_raw>.foodValues.hunger = 1;
+<betteranimalsplus:crab_meat_cooked>.foodValues.hunger = 3;
+<betteranimalsplus:crab_meat_cooked>.foodValues.saturationModifier = 1;
+<betteranimalsplus:turkey_leg_raw>.foodValues.hunger = 2;
+<betteranimalsplus:turkey_leg_cooked>.foodValues.hunger = 4;
+<betteranimalsplus:turkey_leg_cooked>.foodValues.saturationModifier = 1;
+<betteranimalsplus:crab_meat_raw>.foodValues.hunger = 1;
+<betteranimalsplus:eel_meat_cooked>.foodValues.hunger = 3;
+<betteranimalsplus:eel_meat_cooked>.foodValues.saturationModifier = 1;
+<betteranimalsplus:fried_egg>.foodValues.hunger = 3;
+<betteranimalsplus:fried_egg>.foodValues.saturationModifier = 1;
+
