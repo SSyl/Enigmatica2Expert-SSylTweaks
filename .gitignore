@@ -122,3 +122,5 @@ resources/gendustry/textures/
 config/normalasm/methods-stable_39.csv
 
 local/ftbutilities/
+
+config/startuptimer/startup_times.json

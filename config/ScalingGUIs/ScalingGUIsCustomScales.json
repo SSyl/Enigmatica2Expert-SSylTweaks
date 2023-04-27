@@ -9,11 +9,12 @@
     "net.optifine.gui.GuiQualitySettingsOF",
     "net.optifine.gui.GuiDetailSettingsOF",
     "net.minecraft.client.gui.GuiWorldSelection",
+    "net.optifine.gui.GuiOtherSettingsOF",
+    "net.minecraftforge.fml.client.config.GuiConfig",
+    "net.minecraft.client.gui.GuiMultiplayer",
     "lumien.custommainmenu.gui.GuiCustom",
     "net.minecraft.client.gui.GuiOptions",
-    "net.optifine.gui.GuiOtherSettingsOF",
     "net.minecraft.client.gui.GuiVideoSettings",
-    "net.minecraftforge.fml.client.config.GuiConfig",
     "spazley.scalingguis.gui.guiconfig.GuiConfigSG"
   ],
   "blacklistGuiClassNames": [
