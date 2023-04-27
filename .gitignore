@@ -110,3 +110,13 @@ OpenComputers*.dll
 config/oauth.cfg
 
 config/craftpresence.properties
+
+config/tconstruct_oredictcache.dat
+
+config/ChatFlow.dat
+
+resources/bibliocraft/textures/
+resources/doggytalents/textures/
+resources/gendustry/textures/
+
+config/normalasm/methods-stable_39.csv
