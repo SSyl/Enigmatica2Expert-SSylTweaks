@@ -4096,7 +4096,7 @@
           "weight:3": 1,
           "items:9": {
             "0:10": {
-              "id:8": "bigreactors:minerals",
+              "id:8": "bigreactors:mineralanglesite",
               "Count:3": 1,
               "OreDict:8": "",
               "Damage:3": 0
@@ -4107,10 +4107,10 @@
           "weight:3": 1,
           "items:9": {
             "0:10": {
-              "id:8": "bigreactors:minerals",
+              "id:8": "bigreactors:mineralbenitoite",
               "Count:3": 1,
               "OreDict:8": "",
-              "Damage:3": 1
+              "Damage:3": 0
             }
           }
         },
