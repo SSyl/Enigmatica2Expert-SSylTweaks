@@ -55,8 +55,6 @@ dropt.log
 journeymapdefaults.firstrun
 *.zip
 astralsorcery/gatewayFilter/worldFilter.dat
-OpenComputersMod-1.7.3.146-lua53-native.64.dll
-OpenComputersMod-1.7.3.146-lua52-native.64.dll
 ModpackFileId.json
 LICENSE.md
 manifest.json
@@ -87,8 +85,6 @@ config/brandon3055/ProjectIntelligence/ModDocs/
 patchouli_data.json
 oldmanifest.json
 config/AppliedEnergistics2/items.csv
-OpenComputersMod-1.7.4.153-lua53-native.64.dll
-OpenComputersMod-1.7.4.153-lua52-native.64.dll
 ModpackUploader.ps1
 ModpackUploader.bat
 twitch-export-builder.exe
@@ -105,12 +101,4 @@ config/vanillafix.cfg
 config/vanillafix/config_version
 config/vanillafix/methods-stable_39.csv
 jei_bookmarks.ini
-OpenComputersMod-1.8.0-54-libjnlua54-windows-x86_64.dll
-OpenComputersMod-1.8.0-53-libjnlua53-windows-x86_64.dll
-OpenComputersMod-1.8.0-52-libjnlua52-windows-x86_64.dll
-OpenComputersMod-1.8.1-52-libjnlua52-windows-x86_64.dll
-OpenComputersMod-1.8.1-53-libjnlua53-windows-x86_64.dll
-OpenComputersMod-1.8.1-54-libjnlua54-windows-x86_64.dll
-OpenComputersMod-1.8.3-52-libjnlua52-windows-x86_64.dll
-OpenComputersMod-1.8.3-53-libjnlua53-windows-x86_64.dll
-OpenComputersMod-1.8.3-54-libjnlua54-windows-x86_64.dll
+OpenComputersMod-*.dll
