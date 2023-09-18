@@ -544,14 +544,6 @@
     "m": "672e81d68ebdf0ac8a4cd9f78a38a770"
   },
   {
-    "n": "Default Options",
-    "v": "9.2.8",
-    "f": "DefaultOptions_1.12.2-9.2.8.jar",
-    "a": "BlayTheNinth",
-    "u": "http://blay09.net",
-    "m": "5510673c0fad1e3b6617b3d97d54b3d5"
-  },
-  {
     "n": "Demagnetize",
     "v": "1.12.2-1.1.2",
     "f": "demagnetize-1.12.2-1.1.2.jar",
@@ -1319,6 +1311,14 @@
     "a": "HellFirePvP, wiiv",
     "u": "https://minecraft.curseforge.com/projects/modular-machinery",
     "m": "57dca58a7c55b6413af7b25afcad58c2"
+  },
+  {
+    "n": "MoreDefaultOptions",
+    "v": "1.12-0.0.2",
+    "f": "moredefaultoptions-1.12-0.0.2.jar",
+    "a": "BinaryCrafter",
+    "u": "",
+    "m": "3945b3d598a12207dfad06a8055c37da"
   },
   {
     "n": "MoreOverlays",
