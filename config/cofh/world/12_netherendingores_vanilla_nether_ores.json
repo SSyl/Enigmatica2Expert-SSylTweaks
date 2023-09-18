@@ -2,9 +2,15 @@
 	"dependencies": "netherendingores",
 	"populate": {
 		"nether-coal": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": "netherendingores:ore_nether_vanilla",
+				"block": {
+					"name": "netherendingores:ore_nether_vanilla",
+					"properties": {
+						"blocks": "coal_ore"
+					}
+				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 12
 			},
@@ -21,11 +27,14 @@
 			}
 		},
 		"nether-diamond": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_vanilla",
-					"metadata": 1
+					"properties": {
+						"blocks": "diamond_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 5
@@ -43,11 +52,14 @@
 			}
 		},
 		"nether-emerald": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_vanilla",
-					"metadata": 2
+					"properties": {
+						"blocks": "emerald_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 3
@@ -65,11 +77,14 @@
 			}
 		},
 		"nether-gold": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_vanilla",
-					"metadata": 3
+					"properties": {
+						"blocks": "gold_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 7
@@ -87,11 +102,14 @@
 			}
 		},
 		"nether-iron": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_vanilla",
-					"metadata": 4
+					"properties": {
+						"blocks": "iron_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 8
@@ -109,11 +127,14 @@
 			}
 		},
 		"nether-lapis": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_vanilla",
-					"metadata": 5
+					"properties": {
+						"blocks": "lapis_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 8
@@ -131,11 +152,14 @@
 			}
 		},
 		"nether-redstone": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "netherendingores:ore_nether_vanilla",
-					"metadata": 6
+					"properties": {
+						"blocks": "redstone_ore"
+					}
 				},
 				"material": "minecraft:netherrack",
 				"cluster-size": 8

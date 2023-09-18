@@ -2,11 +2,14 @@
 	"dependencies": "chisel",
 	"populate": {
 		"marble": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "chisel:marble2",
-					"metadata": 7
+						"properties": {
+							"variation": "7"
+						}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 24
@@ -25,11 +28,14 @@
 			}
 		},
 		"basalt": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "chisel:basalt2",
-					"metadata": 7
+						"properties": {
+							"variation": "7"
+						}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 24
@@ -48,11 +54,14 @@
 			}
 		},
 		"limestone": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "chisel:limestone2",
-					"metadata": 7
+						"properties": {
+							"variation": "7"
+						}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 24

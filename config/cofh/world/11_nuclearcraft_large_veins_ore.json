@@ -1,33 +1,37 @@
 {
 	"dependencies": "nuclearcraft",
-	"populate": 
-		{
+	"populate": {
 		"large_vein_nuclearcraft": {
+			"enabled": "true",
 			"distribution": "fractal",
 			"generator": {
 				"block": [
 					{
-					# Thorium
 						"name": "nuclearcraft:ore",
-						"metadata": 3,
+						"properties": {
+							"type": "thorium"
+						},
 						"weight": 30
 					},
 					{
-					# Boron
 						"name": "nuclearcraft:ore",
-						"metadata": 5,
+						"properties": {
+							"type": "boron"
+						},
 						"weight": 35
 					},
 					{
-					# Lithium
 						"name": "nuclearcraft:ore",
-						"metadata": 6,
+						"properties": {
+							"type": "lithium"
+						},
 						"weight": 20
 					},
 					{
-					# Magnesium
 						"name": "nuclearcraft:ore",
-						"metadata": 7,
+						"properties": {
+							"type": "magnesium"
+						},
 						"weight": 15
 					}
 				],

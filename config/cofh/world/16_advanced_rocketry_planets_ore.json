@@ -2,11 +2,14 @@
 "dependencies": "advancedrocketry",
 	"populate": {
 		"rock_crystal": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					
-					"name": "astralsorcery:blockcustomore", 					
-					"metadata": 0			
+				"block": {
+					"name": "astralsorcery:blockcustomore",
+					"properties": {
+						"oretype": "rock_crystal"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 14
@@ -26,11 +29,14 @@
 			}
 		},
 		"starmetal": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "astralsorcery:blockcustomore", 					 					
-					"metadata": 1				 				
+				"block": {
+					"name": "astralsorcery:blockcustomore",
+					"properties": {
+						"oretype": "starmetal"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 7
@@ -50,11 +56,14 @@
 			}
 		},
 		"dimensional_shard": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "rftools:dimensional_shard_ore", 					 					
-					"metadata": 0				 				
+				"block": {
+					"name": "rftools:dimensional_shard_ore",
+					"properties": {
+						"oretype": "overworld"
+					}					
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 5
@@ -74,11 +83,11 @@
 			}
 		},
 		"prosperity": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "mysticalagriculture:prosperity_ore", 					 					
-					"metadata": 0				 				
+				"block": {
+					"name": "mysticalagriculture:prosperity_ore"					
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 12
@@ -98,11 +107,14 @@
 			}
 		},
 		"mana_infused": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "thermalfoundation:ore", 					 					
-					"metadata": 8 				 				
+				"block": {
+					"name": "thermalfoundation:ore",
+					"properties": {
+						"type": "mithril"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 9
@@ -122,11 +134,14 @@
 			}
 		},
 		"clathrate_glowstone": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "thermalfoundation:ore_fluid", 					 					
-					"metadata": 3			 				
+				"block": {
+					"name": "thermalfoundation:ore_fluid",
+					"properties": {
+						"type": "glowstone"
+					}				
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 18
@@ -148,11 +163,14 @@
 			}
 		},
 		"draconium_nether": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "draconicevolution:draconium_ore", 					 					
-					"metadata": 1 				 				
+				"block": {
+					"name": "draconicevolution:draconium_ore",
+					"properties": {
+						"type": "nether"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 13
@@ -174,11 +192,14 @@
 			}
 		},
 		"draconium_end": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "draconicevolution:draconium_ore", 					 					
-					"metadata": 2 				 				
+				"block": {
+					"name": "draconicevolution:draconium_ore",
+					"properties": {
+						"type": "end"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 24
@@ -198,11 +219,14 @@
 			}
 		},
 		"clathrate_resonant": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "thermalfoundation:ore_fluid", 					 					
-					"metadata": 4 				 				
+				"block": {
+					"name": "thermalfoundation:ore_fluid",
+					"properties": {
+						"type": "ender"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 14
@@ -222,11 +246,11 @@
 			}
 		},
 		"endstone": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "minecraft:end_stone", 					 					
-					"metadata": 0 				 				
+				"block": {
+					"name": "minecraft:end_stone"
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 96
@@ -246,11 +270,14 @@
 			}
 		},
 		"clathrate_redstone": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "thermalfoundation:ore_fluid", 					 					
-					"metadata": 2 				 				
+				"block": {
+					"name": "thermalfoundation:ore_fluid",
+					"properties": {
+						"type": "redstone"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 19
@@ -273,11 +300,14 @@
 			}
 		},
 		"iridium": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "thermalfoundation:ore", 					 					
-					"metadata": 7 				 				
+				"block": {
+					"name": "thermalfoundation:ore",
+					"properties": {
+						"type": "iridium"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 7
@@ -300,11 +330,14 @@
 			}
 		},
 		"rutile": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "libvulpes:ore0", 					 					
-					"metadata": 8				 				
+				"block": {
+					"name": "libvulpes:ore0",
+					"properties": {
+						"varient": "8"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 8
@@ -327,11 +360,14 @@
 			}
 		},
 		"dilithium": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "libvulpes:ore0", 					 					
-					"metadata": 0				 				
+				"block": {
+					"name": "libvulpes:ore0",
+					"properties": {
+						"varient": "0"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 22
@@ -351,11 +387,14 @@
 			}
 		},
 		"rutile_moon": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": { 					 					
-					"name": "libvulpes:ore0", 					 					
-					"metadata": 8				 				
+				"block": {
+					"name": "libvulpes:ore0",
+					"properties": {
+						"varient": "8"
+					}
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 5
