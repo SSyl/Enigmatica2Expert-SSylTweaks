@@ -1,3 +1,7 @@
+/***
+
+Extreme Reactors/Big Reactors removed entirely in E2E SSylTweaks
+
 import mods.jei.JEI.removeAndHide as rh;
 import mods.jei.JEI.addDescription;
 import crafttweaker.item.IIngredient;
@@ -28,3 +32,4 @@ recipes.addShapeless("Blutonium -> Melodic Block conversion",<enderio:block_allo
 recipes.addShapeless("Ludicrite -> Stellar Block conversion",<enderio:block_alloy_endergy:3>,[<bigreactors:blockmetals:4>]);
 recipes.addShapeless("Blutonium -> Melodic Dust conversion",<enderio:item_alloy_endergy_ingot:2>,[<bigreactors:dustmetals:3>]);
 recipes.addShapeless("Ludicrite -> Stellar Dust conversion",<enderio:item_alloy_endergy_ingot:3>,[<bigreactors:dustmetals:4>]);
+***/
