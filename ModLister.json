@@ -144,14 +144,6 @@
     "m": "c2db411b6e678c7e24035cd5c0525264"
   },
   {
-    "n": "Attribute Fix",
-    "v": "1.0.12",
-    "f": "AttributeFix-Forge-1.12.2-1.0.12.jar",
-    "a": "darkhax",
-    "u": "https://minecraft.curseforge.com/projects/attributefix",
-    "m": "329aabfc4713a78d0b7daaf9034838e9"
-  },
-  {
     "n": "AutoRegLib",
     "v": "1.3-32",
     "f": "AutoRegLib-1.3-32.jar",
@@ -576,21 +568,6 @@
     "m": "1ed732e64caad803eec9809117cf34cc"
   },
   {
-    "n": "Diet Hopper",
-    "v": "1.1",
-    "f": "diethopper-1.1.jar",
-    "a": "RWTema",
-    "u": "",
-    "m": "1d616cb7b25de3ae44f06e26d18bd07e"
-  },
-  {
-    "n": "Ding",
-    "v": "1.0.2",
-    "f": "Ding-1.12.2-1.0.2.jar",
-    "a": "",
-    "u": "http://ichun.me/mods/ding/",
-    "m": "a53653c887baf2c82ceb55663e22a2a7"
-  },
   {
     "n": "Dirt2Path",
     "v": "1.7.1",
@@ -832,22 +809,6 @@
     "m": "b84cc8a587dbd35fef2dbc3e0b9435aa"
   },
   {
-    "n": "FastWorkbench",
-    "v": "1.7.4",
-    "f": "FastWorkbench-1.12.2-1.7.4.jar",
-    "a": "Shadows_of_Fire",
-    "u": "",
-    "m": "06eb9174804717d1f8f42366fe6002d4"
-  },
-  {
-    "n": "Fence Jumper",
-    "v": "1.0.5",
-    "f": "fencejumper-1.12-1.0.5.jar",
-    "a": "p455w0rd aka TheRealp455w0rd",
-    "u": "",
-    "m": "c1b823295baf4c1e27bd2128409a23f9"
-  },
-  {
     "n": "Flat Colored Blocks",
     "v": "mc1.12-6.8",
     "f": "flatcoloredblocks-mc1.12-6.8.jar",
@@ -958,14 +919,6 @@
     "a": "Ninjabrain1",
     "u": "",
     "m": "2f09ca53f77d06071a31f32a25586950"
-  },
-  {
-    "n": "Give me back my HP!",
-    "v": "1.0.0",
-    "f": "give-me-back-my-hp-1.12.2-1.0.0.jar",
-    "a": "phantamanta44",
-    "u": "",
-    "m": "88ad1bc23d2996863b2f51340dae7cd7"
   },
   {
     "n": "Guide-API",
@@ -1472,14 +1425,6 @@
     "m": "97414eccfd9a966f01d882dcfdcbfa65"
   },
   {
-    "n": "No Night Vision Flashing",
-    "v": "1.2.0",
-    "f": "NoNVFlash-1.12.2-1.2.0.3-universal.jar",
-    "a": "Team CoFH",
-    "u": "http://www.teamcofh.com",
-    "m": "963d5da7918e38a5ae3beab819aad909"
-  },
-  {
     "n": "NotEnoughIDs",
     "v": "1.5.4.4",
     "f": "NotEnoughIDs-1.5.4.4.jar",
@@ -1680,14 +1625,6 @@
     "m": "dfcfa70d244f0435a5ff2b28037a324b"
   },
   {
-    "n": "Quick Leaf Decay",
-    "v": "1.2.4",
-    "f": "QuickLeafDecay-MC1.12.1-1.2.4.jar",
-    "a": "lumien",
-    "u": "",
-    "m": "e8565fac075a2cef2400ea9bd782ce9c"
-  },
-  {
     "n": "Random Things",
     "v": "4.2.7.4",
     "f": "RandomThings-MC1.12.2-4.2.7.4.jar",
@@ -1864,13 +1801,6 @@
     "m": "e2cdef436dfe1ef9d8629a1af821c063"
   },
   {
-    "n": "SwingThroughGrass",
-    "v": "1.12.2-1.2.3",
-    "f": "stg-1.12.2-1.2.3.jar",
-    "a": "Exidex",
-    "u": "",
-    "m": "b836648006f1451c65d33f7132eec770"
-  },
   {
     "n": "TESLA",
     "v": "1.0.63",
@@ -2024,14 +1954,6 @@
     "m": "eb4bba23a510da1a6f9c4e916c45714f"
   },
   {
-    "n": "Toast Control",
-    "v": "1.8.1",
-    "f": "Toast Control-1.12.2-1.8.1.jar",
-    "a": "",
-    "u": "",
-    "m": "e431fec0248132e5c4d03ad70bd4dc6b"
-  },
-  {
     "n": "Tomb Many Graves",
     "v": "1.12-4.2.0",
     "f": "TombManyGraves-1.12-4.2.0.jar",
@@ -2088,20 +2010,20 @@
     "m": "e9bfd5d4274395d87c0bea745a37223a"
   },
   {
+    "n": "Universal Tweaks",
+    "v": "1.12.2-1.8.0",
+    "f": "UniversalTweaks-1.12.2-1.8.0.jar",
+    "a": "ACGaming",
+    "u": "https://github.com/ACGaming/UniversalTweaks",
+    "m": "99a61011b4b3a97e70953d9a3b0e57b3"
+  },
+  {
     "n": "Unlimited Chisel Works",
     "v": "0.3.5",
     "f": "UnlimitedChiselWorks-0.3.5.jar",
     "a": "asie",
     "u": "https://charset.asie.pl/",
     "m": "d7cecef93ffccba2dbfa43ee4e8fff23"
-  },
-  {
-    "n": "Unloader",
-    "v": "1.2.0",
-    "f": "unloader-1.2.0.jar",
-    "a": "Unnoen",
-    "u": "https://github.com/Unnoen/Unloader",
-    "m": "c13b3a2c4ed9537e4f64f7c9bbde64f3"
   },
   {
     "n": "Valkyrie Lib",
