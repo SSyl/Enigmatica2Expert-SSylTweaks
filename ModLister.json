@@ -216,20 +216,12 @@
     "m": "fb4283f63a9129ef4611cc92e36de18d"
   },
   {
-    "n": "Better Questing",
-    "v": "3.5.329",
-    "f": "BetterQuesting-3.5.329.jar",
-    "a": "Funwayguy",
-    "u": "",
-    "m": "85da6feb96533799ed726f22f09682fc"
-  },
-  {
-    "n": "Better Questing Quest Book",
-    "v": "3.1.1-1.12",
-    "f": "questbook-3.1.1-1.12.jar",
-    "a": "Drethic",
-    "u": "",
-    "m": "aa802b89cd4244d0bfaff4b60a0f5654"
+    "n": "Better Questing Unofficial",
+    "v": "4.1.0",
+    "f": "BetterQuestingUnofficial-4.1.0.jar",
+    "a": "Funwayguy, CleanroomMC team",
+    "u": "https://github.com/CleanroomMC/BetterQuesting",
+    "m": "5b8407fe2fd1db2b241d3e009b33703d"
   },
   {
     "n": "BiblioCraft",
@@ -1775,14 +1767,6 @@
     "a": "Cazsius, Talonos, juliand665",
     "u": "https://minecraft.curseforge.com/projects/spice-of-life-carrot-edition",
     "m": "644c0f7f51a19fd1dce0cf4bdadfc52c"
-  },
-  {
-    "n": "Standard Expansion",
-    "v": "3.4.173",
-    "f": "StandardExpansion-3.4.173.jar",
-    "a": "Funwayguy",
-    "u": "",
-    "m": "a05ed445a2c384e429c124b673cbda2a"
   },
   {
     "n": "Storage Drawers",
