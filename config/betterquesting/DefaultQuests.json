@@ -2855,24 +2855,13 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Welcome to Enigmatica 2: Expert! This modpack is designed to challenge the player through various means, especially harder recipes. I advice that you automate crafting of as much as possible, as early as possible. Things are going to get complicated. \n\nCheck the checkbox to get your starterkit.§d§d§0 \n\nI suggest you make a Backpack out of the Tanned Leather \u0026 Wooden Frame.\n\nGood luck!§0",
+          "desc:8": "Welcome to Enigmatica 2: Expert! This modpack is designed to challenge the player through various means, especially harder recipes. I advise that you automate crafting as much as possible, as early as possible. Things are going to get complicated. \n\nCheck the checkbox to get your starter kit.§d§d§0 \n\nHere\u0027s some wool to get you through the night in case there aren\u0027t sheep around.\n\nGood luck!§0",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": "",
-            "id:8": "betterquesting:placeholder",
-            "tag:10": {
-              "orig_id:8": "ironbackpacks:backpack",
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "packInfo:10": {
-                  "spec:8": "NONE",
-                  "type:8": "ironbackpacks:basic",
-                  "upgrade:9": {}
-                }
-              }
-            }
+            "id:8": "betterquesting:quest_book"
           },
           "ignoresview:1": 0,
           "ismain:1": 1,
@@ -2934,24 +2923,10 @@
               "id:8": "minecraft:leather_boots"
             },
             "4:10": {
-              "Count:3": 8,
+              "Count:3": 3,
               "Damage:2": 0,
               "OreDict:8": "",
-              "id:8": "betterquesting:placeholder",
-              "tag:10": {
-                "orig_id:8": "backpack:tanned_leather",
-                "orig_meta:3": 0
-              }
-            },
-            "5:10": {
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": "",
-              "id:8": "betterquesting:placeholder",
-              "tag:10": {
-                "orig_id:8": "backpack:backpack_frame",
-                "orig_meta:3": 0
-              }
+              "id:8": "minecraft:wool"
             }
           }
         }
@@ -3996,7 +3971,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "You may have discovered that planks are a little harder to come by than usual. To make up for it, you can harvest multiple logs with§3§9 OreExcavation§0§r, by holding down the grave key, by default. This works for all blocks. The§4 appropriate tool§0 is meant to be required to use §9OreExcavation§0, but isn\u0027t due to a bug.",
+          "desc:8": "You may have discovered that Veinminer/Ore Excavator isn\u0027t in the pack. That\u0027s because I enjoy the early game grind!",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -4011,7 +3986,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 1,
-          "name:8": "Did you know we have veinminer?",
+          "name:8": "Did you know I removed veinminer?",
           "partySingleReward:8": "false",
           "partysinglereward:1": 0,
           "questlogic:8": "AND",
