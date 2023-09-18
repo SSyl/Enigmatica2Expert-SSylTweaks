@@ -40,12 +40,28 @@
     "m": "045272d30cdb7953bd2061115c698b99"
   },
   {
+    "n": "AE Additions",
+    "v": "1.3.8",
+    "f": "AEAdditions-1.12.2-1.3.8.jar",
+    "a": "MasterYodA",
+    "u": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-x-2-2-x",
+    "m": "bf1a378139732c167ac6be2ca836831c"
+  },
+  {
     "n": "AE2 Stuff",
     "v": "0.7.0.4",
     "f": "ae2stuff-0.7.0.4-mc1.12.2.jar",
     "a": "bdew",
     "u": "bdew.net",
     "m": "8594b7501c1ecc1bdaaa8ef42b7dbdda"
+  },
+  {
+    "n": "AE2 Unofficial Extended Life",
+    "v": "rv6-stable-7-extended_life-v0.55.22",
+    "f": "appliedenergistics2-rv6-stable-7-extended_life-v0.55.22.jar",
+    "a": "AlgorithmX2",
+    "u": "https://github.com/PrototypeTrousers/Applied-Energistics-2",
+    "m": "ad84790fcd1d92d7134cc11edaa6e79e"
   },
   {
     "n": "AE2 Wireless Terminals (AE2WTLib)",
@@ -102,14 +118,6 @@
     "a": "squeek",
     "u": "",
     "m": "b435860d5cfa23bc53d3b8e120be91d4"
-  },
-  {
-    "n": "Applied Energistics 2",
-    "v": "rv6-stable-7",
-    "f": "appliedenergistics2-rv6-stable-7.jar",
-    "a": "AlgorithmX2",
-    "u": "http://ae2.ae-mod.info",
-    "m": "b8667d60a761d5b5ae3c8a15192f9e28"
   },
   {
     "n": "ArchitectureCraft",
@@ -798,14 +806,6 @@
     "a": "Phylogeny",
     "u": "http://minecraft.curseforge.com/projects/extra-bit-manipulation",
     "m": "0e748d7c4e9f5724ef8daa997334fa02"
-  },
-  {
-    "n": "Extra Cells 2",
-    "v": "2.6.7",
-    "f": "ExtraCells-1.12.2-2.6.7.jar",
-    "a": "M3gaFr3ak, DrummerMC",
-    "u": "https://www.curseforge.com/minecraft/mc-mods/extracells2-samlam140330s-fork",
-    "m": "5d977bc033d669f99b236ff316cc6a7d"
   },
   {
     "n": "Extra Utilities 2",

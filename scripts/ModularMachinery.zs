@@ -13,9 +13,9 @@ import mods.jei.JEI.removeAndHide as rh;
 # Advanced Thermionic Fabricator
 	recipes.addShapedMirrored("Advanced Thermionic Fabricator", 
 	<modularmachinery:itemblueprint>.withTag({dynamicmachine: "modularmachinery:advanced_thermionic_fabricator"}), 
-	[[<modularmachinery:blockcasing>, <extracells:storage.component:8>, <modularmachinery:blockcasing>],
+	[[<modularmachinery:blockcasing>, <aeadditions:storage.component:8>, <modularmachinery:blockcasing>],
 	[<forestry:fabricator>, <immersiveengineering:blueprint>.anyDamage(), <forestry:fabricator>], 
-	[<modularmachinery:blockcasing>, <extracells:fluidcrafter>, <modularmachinery:blockcasing>]]);
+	[<modularmachinery:blockcasing>, <aeadditions:fluidcrafter>, <modularmachinery:blockcasing>]]);
 
 # Starlight Crafting Engine
 	recipes.addShapedMirrored("Starlight Crafting Engine", 
@@ -29,7 +29,7 @@ import mods.jei.JEI.removeAndHide as rh;
     <modularmachinery:itemblueprint>.withTag({dynamicmachine: "modularmachinery:advanced_carpenter"}), 
     [[<modularmachinery:blockcasing>, <appliedenergistics2:material:57>, <modularmachinery:blockcasing>],
     [<forestry:carpenter>, <immersiveengineering:blueprint>.anyDamage(), <forestry:carpenter>], 
-    [<modularmachinery:blockcasing>, <extracells:fluidcrafter>, <modularmachinery:blockcasing>]]);
+    [<modularmachinery:blockcasing>, <aeadditions:fluidcrafter>, <modularmachinery:blockcasing>]]);
     
 # Advanced Metallurgic Fabricator
 	recipes.addShapedMirrored("Advanced Metallurgic Fabricator", 
