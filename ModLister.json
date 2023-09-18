@@ -937,6 +937,13 @@
     "m": "7a0ce66dc54f1c018cf922f162b674cf"
   },
   {
+    "n": "Had Enough Items",
+    "v": "4.25.0",
+    "f": "HadEnoughItems_1.12.2-4.25.0.jar",
+    "a": "mezz, Rongmario",
+    "u": "https://github.com/CleanroomMC/HadEnoughItems",
+    "m": "2de0f88cf353bcec6034748aa5b8da3b"
+  },
     "n": "Horse Tweaks",
     "v": "1.0.5",
     "f": "HorseTweaks_1.12.2-1.0.5.jar",
@@ -1129,13 +1136,6 @@
     "m": "2844aaf4344791b86b7057416ce27c65"
   },
   {
-    "n": "Just Enough Items",
-    "v": "4.16.1.1003",
-    "f": "jei_1.12.2-4.16.1.1003.jar",
-    "a": "mezz",
-    "u": "https://github.com/mezz/JustEnoughItems",
-    "m": "83e3c785904fdc1bfc70da0264969799"
-  },
   {
     "n": "Just Enough Pattern Banners",
     "v": "1.2.1",
