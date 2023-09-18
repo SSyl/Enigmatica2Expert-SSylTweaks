@@ -1168,14 +1168,6 @@
     "m": "8160b970fc14cff30dff2785bb9f964c"
   },
   {
-    "n": "Just Enough Energistics",
-    "v": "1.0.8",
-    "f": "JustEnoughEnergistics-1.12.2-1.0.8.jar",
-    "a": "TheRealp455w0rd",
-    "u": "",
-    "m": "be626dce632db45ab61512e5a6d9cdd7"
-  },
-  {
     "n": "Just Enough HarvestCraft",
     "v": "1.7.2",
     "f": "just-enough-harvestcraft-1.12.2-1.7.2.jar",
@@ -1320,20 +1312,20 @@
     "m": "47987d111d6f1e48403bc3cbb23f5503"
   },
   {
-    "n": "Mekanism",
-    "v": "1.12.2-9.8.3.390",
-    "f": "Mekanism-1.12.2-9.8.3.390.jar",
+    "n": "Mekanism Community Edition",
+    "v": "9.12.7",
+    "f": "Mekanism-Community-Edition-1.12.2-9.12.7-Core.jar",
     "a": "aidancbrady, thommy101, thiakil, pupnewfster, dizzyd",
     "u": "",
-    "m": "e622b8365b9a1190b3b6cc042854e870"
+    "m": "77910f692aa1a318bc5206cfe492fef4"
   },
   {
-    "n": "Mekanism: Generators",
-    "v": "1.12.2-9.8.3.390",
-    "f": "MekanismGenerators-1.12.2-9.8.3.390.jar",
+    "n": "Mekanism Community Edition: Generators",
+    "v": "9.12.7",
+    "f": "Mekanism-Community-Edition-1.12.2-9.12.7-Generators.jar",
     "a": "aidancbrady, thommy101, thiakil, pupnewfster, dizzyd",
     "u": "",
-    "m": "d75ddb11a6c1353b046c70d8904fe61e"
+    "m": "7e14e9c1d9e25ac23895b7faad672c85"
   },
   {
     "n": "Minecraft",
@@ -1630,14 +1622,6 @@
     "a": "Shadows_of_Fire",
     "u": "",
     "m": "5de720fd198f0d3db6d594eeb835fe63"
-  },
-  {
-    "n": "PlaneFix",
-    "v": "1.0.0",
-    "f": "PlaneFix-1.12.2-1.0.0.jar",
-    "a": "Shadows_of_Fire",
-    "u": "",
-    "m": "392ea85730f7ae98212a4248b9798110"
   },
   {
     "n": "Plethora",
@@ -1952,6 +1936,14 @@
     "m": "ac9c39b39b4ea8dc40fe7b8a55d773d1"
   },
   {
+    "n": "The One Probe",
+    "v": "1.4.28",
+    "f": "theoneprobe-1.12-1.4.28.jar",
+    "a": "McJty",
+    "u": "",
+    "m": "63849a13a822b3b56308245eb8074a7e"
+  },
+  {
     "n": "The Twilight Forest",
     "v": "3.11.1021",
     "f": "twilightforest-1.12.2-3.11.1021-universal.jar",
@@ -2056,6 +2048,14 @@
     "m": "902938232415bbf86c2e1bcc8d05a334"
   },
   {
+    "n": "TOP Addons",
+    "v": "1.12.2-1.13.0",
+    "f": "topaddons-1.12.2-1.13.0.jar",
+    "a": "DrManganese",
+    "u": "drmanganese.github.io",
+    "m": "e165a54c43f48b42725225b87530b168"
+  },
+  {
     "n": "ToroHealth Damage Indicators",
     "v": "1.12.2-11",
     "f": "torohealth-1.12.2-11.jar",
@@ -2128,36 +2128,12 @@
     "m": "f5b3a43fd2f82ec39ad04e5392079d6e"
   },
   {
-    "n": "Waila",
-    "v": "1.8.26",
-    "f": "Hwyla-1.8.26-B41_1.12.2.jar",
-    "a": "ProfMobius, TehNut",
-    "u": "",
-    "m": "bca1c069d9171d331d211d24e8a3b770"
-  },
-  {
-    "n": "Waila Harvestability",
-    "v": "1.1.12",
-    "f": "WailaHarvestability-mc1.12-1.1.12.jar",
-    "a": "squeek",
-    "u": "",
-    "m": "0bd8765ff3064be336cb1b09208e410c"
-  },
-  {
     "n": "WanionLib",
     "v": "1.12.2-2.9",
     "f": "WanionLib-1.12.2-2.9.jar",
     "a": "WanionCane",
     "u": "http://minecraft.curseforge.com/projects/wanionlib",
     "m": "37e954391f25d6ad63362ff26f7771c9"
-  },
-  {
-    "n": "What Are We Looking At",
-    "v": "2.6.275",
-    "f": "Wawla-1.12.2-2.6.275.jar",
-    "a": "Darkhax",
-    "u": "https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at",
-    "m": "3762f87395a87af86e9552c6d7ca7e06"
   },
   {
     "n": "Wireless Crafting Terminal 2",
@@ -2190,13 +2166,5 @@
     "a": "asie",
     "u": "http://asie.pl/",
     "m": "88164b3766ded7c2636b4ba0f19ed198"
-  },
-  {
-    "n": "Zero CORE",
-    "v": "1.12-0.1.2.3",
-    "f": "zerocore-1.12-0.1.2.3.jar",
-    "a": "ZeroNoRyouki",
-    "u": "http://zerono.it/",
-    "m": "c722d9453011b60eaa898c658e04020a"
   }
 ]
