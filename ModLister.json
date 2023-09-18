@@ -307,16 +307,16 @@
     "n": "CC: Tweaked",
     "v": "1.89.2",
     "f": "cc-tweaked-1.12.2-1.89.2.jar",
-    "a": "",
-    "u": "",
+    "a": "Daniel Ratcliffe, Aaron Mills, SquidDev",
+    "u": "https://github.com/SquidDev-CC/CC-Tweaked",
     "m": "cf075ec4f281ed5c510a96a91299927b"
   },
   {
     "n": "CC: Tweaked",
     "v": "1.89.2",
     "f": "cc-tweaked-1.12.2-1.89.2.jar",
-    "a": "Daniel Ratcliffe, Aaron Mills, SquidDev",
-    "u": "https://github.com/SquidDev-CC/CC-Tweaked",
+    "a": "",
+    "u": "",
     "m": "cf075ec4f281ed5c510a96a91299927b"
   },
   {
@@ -350,6 +350,14 @@
     "a": "abecderic",
     "u": "",
     "m": "733de95339e32be159fba786ea4eb00a"
+  },
+  {
+    "n": "Cloche++",
+    "v": "1.0.3",
+    "f": "cloche-profit-peripheral-1.12.2-1.0.3.jar",
+    "a": "phantamanta44",
+    "u": "",
+    "m": "3716820345eb2de5c64b862337660b49"
   },
   {
     "n": "Clumps",
@@ -414,6 +422,14 @@
     "a": "cpw",
     "u": "http://forum.industrial-craft.net/index.php?page\u003dThread\u0026threadID\u003d4827",
     "m": "bcfbc1b879fd0d06443ac9ca2774a5a0"
+  },
+  {
+    "n": "ConfigAnytime",
+    "v": "1.0",
+    "f": "!configanytime-1.0.jar",
+    "a": "CleanroomMC",
+    "u": "",
+    "m": "feab07e8b137b1087888a7ec99546b5d"
   },
   {
     "n": "ContentTweaker",
@@ -542,23 +558,6 @@
     "a": "comp500",
     "u": "https://github.com/comp500/Demagnetize/",
     "m": "1ed732e64caad803eec9809117cf34cc"
-  },
-  {
-  {
-    "n": "Dirt2Path",
-    "v": "1.7.1",
-    "f": "dirt2path-1.8.0.jar",
-    "a": "mallrat208",
-    "u": "",
-    "m": "745af7e16cf7f41594185f28653babde"
-  },
-  {
-    "n": "DiscordSuite",
-    "v": "2.2.4",
-    "f": "DiscordSuite-2.2.4.jar",
-    "a": "Coded",
-    "u": "",
-    "m": "e72b9dc2e36150e4ada0e7dd90a631a7"
   },
   {
     "n": "Draconic Evolution",
@@ -690,11 +689,11 @@
   },
   {
     "n": "EnderStorage",
-    "v": "2.4.6.137",
-    "f": "EnderStorage-1.12.2-2.4.6.137-universal.jar",
+    "v": "2.4.9",
+    "f": "EnderStorage-1.12.2-2.4.9.jar",
     "a": "ChickenBones, covers1624",
     "u": "http://www.minecraftforum.net/topic/909223",
-    "m": "c66000e24e8c11675db554c644b31bda"
+    "m": "07eaf13ae3f01161232f3e6f49de98d1"
   },
   {
     "n": "EnderTweaker",
@@ -849,14 +848,6 @@
     "m": "517dfdcd8fd4f18ea117ead9c08779f8"
   },
   {
-    "n": "FTB Backups",
-    "v": "1.1.0.1",
-    "f": "FTBBackups-1.1.0.1.jar",
-    "a": "LatvianModder",
-    "u": "https://www.curseforge.com/minecraft/mc-mods/ftb-backups",
-    "m": "932a6981ff08c35bbdf83bb9f7af8d17"
-  },
-  {
     "n": "FTB Library",
     "v": "5.4.7.2",
     "f": "FTBLib-5.4.7.2.jar",
@@ -920,6 +911,15 @@
     "u": "https://github.com/CleanroomMC/HadEnoughItems",
     "m": "2de0f88cf353bcec6034748aa5b8da3b"
   },
+  {
+    "n": "Hesperus, fork from Phosphor",
+    "v": "1.12.2-0.2.9.3",
+    "f": "phosphor-1.12.2-0.2.9.3-SNAPSHOT.jar",
+    "a": "Angeline (@jellysquid), embeddedt",
+    "u": "https://minecraft.curseforge.com/projects/hesperus",
+    "m": "a694f15c9b318def5a02978d361a1fd6"
+  },
+  {
     "n": "Horse Tweaks",
     "v": "1.0.5",
     "f": "HorseTweaks_1.12.2-1.0.5.jar",
@@ -1104,7 +1104,6 @@
     "m": "2844aaf4344791b86b7057416ce27c65"
   },
   {
-  {
     "n": "Just Enough Pattern Banners",
     "v": "1.2.1",
     "f": "jepb-1.12-1.2.1.jar",
@@ -1273,6 +1272,14 @@
     "m": ""
   },
   {
+    "n": "MixinBooter",
+    "v": "8.6",
+    "f": "minecraft.jar",
+    "a": "Rongmario",
+    "u": "",
+    "m": ""
+  },
+  {
     "n": "Mod Tweaker",
     "v": "4.0.19",
     "f": "modtweaker-4.0.20.11.jar",
@@ -1345,14 +1352,6 @@
     "m": "ead0f02e214ab12b4f7b86c79fc23ffa"
   },
   {
-    "n": "Mystical Agradditions Compat",
-    "v": "1.2",
-    "f": "mystagradcompat-1.2.jar",
-    "a": "NicJames2378",
-    "u": "",
-    "m": "67f21881949aec90227812c2cc1c4e2a"
-  },
-  {
     "n": "Mystical Agriculture",
     "v": "1.7.5",
     "f": "MysticalAgriculture-1.12.2-1.7.5.jar",
@@ -1393,20 +1392,12 @@
     "m": "53e63a42c0bd739d70b2d85764f287e2"
   },
   {
-    "n": "No Mob Spawning on Trees",
-    "v": "1.2.2-mc1.12.2",
-    "f": "NoMobSpawningOnTrees-1.2.2-mc1.12.2.jar",
-    "a": "oldjunyi",
-    "u": "www.mmyzd.com",
-    "m": "97414eccfd9a966f01d882dcfdcbfa65"
-  },
-  {
-    "n": "NotEnoughIDs",
-    "v": "1.5.4.4",
-    "f": "NotEnoughIDs-1.5.4.4.jar",
-    "a": "fewizz, Player",
+    "n": "NotEnoughEnergistics",
+    "v": "@VERSION@",
+    "f": "NotEnoughEnergistics-1.12.2-2.0.6.jar",
+    "a": "vfyjxf",
     "u": "",
-    "m": "759494e409ce5d2ac277fc350e89500a"
+    "m": "251552ca271b890d4d78df2b9b641a8f"
   },
   {
     "n": "NuclearCraft",
@@ -1425,12 +1416,12 @@
     "m": "21c6cb0b43f1b6dda37554146a26cef9"
   },
   {
-    "n": "Old Java Warning",
-    "v": "1.1.11",
-    "f": "OldJavaWarning-1.12.2-1.1.11.jar",
-    "a": "Darkhax",
-    "u": "http://www.darkhax.net",
-    "m": "1c48317607e64f5512df884d1096a8a6"
+    "n": "OAuth",
+    "v": "1.06.4",
+    "f": "oauth-1.06.4.jar",
+    "a": "Sintinium",
+    "u": "sintinium.com",
+    "m": "17eb5f25e3bde2b350ba06f746616d6f"
   },
   {
     "n": "OpenBlocks",
@@ -1529,14 +1520,6 @@
     "m": "5450477c1ce7189c5ee11595d5e03a7c"
   },
   {
-    "n": "Phosphor Lighting Engine",
-    "v": "1.12.2-0.2.7",
-    "f": "phosphor-forge-mc1.12.2-0.2.7-universal.jar",
-    "a": "Angeline (@jellysquid)",
-    "u": "https://minecraft.curseforge.com/projects/phosphor-forge",
-    "m": "13f62131ab2fff6212301ee70f6bf5d8"
-  },
-  {
     "n": "Placebo",
     "v": "1.6.0",
     "f": "Placebo-1.12.2-1.6.1.jar",
@@ -1617,15 +1600,6 @@
     "m": "dfbb30ff396e6426ba9a284b04c7bcf3"
   },
   {
-    "n": "ReAuth",
-    "v": "4.0.7",
-    "f": "ReAuth-1.12-Forge-4.0.7.jar",
-    "a": "TechnicianLP",
-    "u": "http://minecraft.curseforge.com/projects/reauth",
-    "m": "64ad1064003edd10b740ee33d02204e2"
-  },
-  {
-  },
     "n": "Recurrent Complex",
     "v": "1.4.8.5",
     "f": "RecurrentComplex-1.4.8.5.jar",
@@ -1680,6 +1654,14 @@
     "a": "McJty",
     "u": "",
     "m": "ee4db68d6afee08ec383f525a331ef53"
+  },
+  {
+    "n": "RoughlyEnoughIDs",
+    "v": "2.0.6",
+    "f": "RoughlyEnoughIDs-2.0.6.jar",
+    "a": "Runemoro, ZombieHDGaming",
+    "u": "https://minecraft.curseforge.com/projects/reid",
+    "m": "fe5e3f15f5c38d527b6112125a7e4aaf"
   },
   {
     "n": "Rustic",
@@ -1762,15 +1744,6 @@
     "m": "e2cdef436dfe1ef9d8629a1af821c063"
   },
   {
-  {
-    "n": "TESLA",
-    "v": "1.0.63",
-    "f": "Tesla-1.12.2-1.0.63.jar",
-    "a": "Darkhax",
-    "u": "",
-    "m": "fa040aadae95494411406859f98959c6"
-  },
-  {
     "n": "Tesla Core Lib",
     "v": "1.0.18",
     "f": "tesla-core-lib-1.12.2-1.0.18.jar",
@@ -1841,14 +1814,6 @@
     "a": "Benimatic, AtomicBlom, Drullkus, Killer_Demon, quadraxis, Tamaized, williewillus",
     "u": "https://minecraft.curseforge.com/projects/the-twilight-forest",
     "m": "0933760943721154f3208782306f04d6"
-  },
-  {
-    "n": "Thermal Cultivation",
-    "v": "0.3.6",
-    "f": "ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
-    "a": "Team CoFH",
-    "u": "http://www.teamcofh.com",
-    "m": "28970430074736ae6efbe4f7c353b30a"
   },
   {
     "n": "Thermal Dynamics",
