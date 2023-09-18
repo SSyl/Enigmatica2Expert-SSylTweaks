@@ -136,6 +136,30 @@
     "m": "026c35a6fc0a431987c385e8512ebe36"
   },
   {
+    "n": "Aroma1997Core",
+    "v": "2.0.0.2",
+    "f": "Aroma1997Core-1.12.2-2.0.0.2.jar",
+    "a": "",
+    "u": "http://www.minecraftforum.net/topic/1679684-",
+    "m": "f5199ab1a48d442af764071147a31747"
+  },
+  {
+    "n": "AromaBackup",
+    "v": "2.1.1.4",
+    "f": "AromaBackup-1.12.2-2.1.1.4.jar",
+    "a": "",
+    "u": "http://www.minecraftforum.net/topic/1679684-",
+    "m": "bf3cd3446876ee9c672dadf34db9f807"
+  },
+  {
+    "n": "AromaBackuprecovery",
+    "v": "2.1.1.4",
+    "f": "AromaBackup-1.12.2-2.1.1.4.jar",
+    "a": "",
+    "u": "http://www.minecraftforum.net/topic/1679684-",
+    "m": "bf3cd3446876ee9c672dadf34db9f807"
+  },
+  {
     "n": "Astral Sorcery",
     "v": "1.10.27",
     "f": "astralsorcery-1.12.2-1.10.27.jar",
@@ -1280,6 +1304,14 @@
     "m": ""
   },
   {
+    "n": "Mod Name Tooltip",
+    "v": "1.10.1",
+    "f": "modnametooltip_1.12.2-1.10.1.jar",
+    "a": "mezz",
+    "u": "https://github.com/mezz/ModNameTooltip",
+    "m": "e36854d3c58af598ab3ce08d6cf0c760"
+  },
+  {
     "n": "Mod Tweaker",
     "v": "4.0.19",
     "f": "modtweaker-4.0.20.11.jar",
@@ -1409,11 +1441,11 @@
   },
   {
     "n": "Nutrition",
-    "v": "4.6.1",
-    "f": "Nutrition-1.12.2-4.6.1.jar",
+    "v": "4.9.0",
+    "f": "Nutrition-1.12.2-4.9.0.jar",
     "a": "Wes Cook",
     "u": "https://github.com/WesCook/Nutrition",
-    "m": "21c6cb0b43f1b6dda37554146a26cef9"
+    "m": "d3fba0a7fe3ef3923781949e2b59c09d"
   },
   {
     "n": "OAuth",
@@ -1568,12 +1600,12 @@
     "m": "1051ee898742747e460a91e417a1c84d"
   },
   {
-    "n": "Quark",
-    "v": "r1.6-179",
-    "f": "Quark-r1.6-179.jar",
-    "a": "Vazkii, wiiv",
-    "u": "http://www.vazkii.us",
-    "m": "dfcfa70d244f0435a5ff2b28037a324b"
+    "n": "Quark: RotN Edition",
+    "v": "r1.6-188",
+    "f": "QuarkRotN-r1.6-188.jar",
+    "a": "Vazkii, wiiv, democat3457, Asterixxx, Yeelp",
+    "u": "http://www.vazkii.us | https://github.com/Rebirth-of-the-Night/Quark",
+    "m": "b5f1be64ee6c1fc096814af85c39b414"
   },
   {
     "n": "Random Things",
