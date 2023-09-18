@@ -1153,14 +1153,6 @@
     "m": "361e466e0669d0d9cf533fbf6aafe3f1"
   },
   {
-    "n": "Just Sleep",
-    "v": "1.0.0.1",
-    "f": "JustSleep-1.0.0.1.jar",
-    "a": "",
-    "u": "",
-    "m": "fb70a41f9ebc43c61a1db6ef513c7f83"
-  },
-  {
     "n": "KleeSlabs",
     "v": "5.4.12",
     "f": "KleeSlabs_1.12.2-5.4.12.jar",
@@ -1183,6 +1175,14 @@
     "a": "crazysnailboy",
     "u": "https://minecraft.curseforge.com/projects/lapis-stays-in-the-enchanting-table/",
     "m": "fbfd70a18d887fd9bc08dd25ff91d61a"
+  },
+  {
+    "n": "Let Me Sleep",
+    "v": "1.2.2",
+    "f": "LetMeSleep-v1.2.3-1.12.2.jar",
+    "a": "Fuzs",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/let-me-sleep",
+    "m": "dfcd1031d0a98ff6d10d754385f199cb"
   },
   {
     "n": "LLibrary",
@@ -1641,14 +1641,7 @@
     "m": "64ad1064003edd10b740ee33d02204e2"
   },
   {
-    "n": "Reborn Core",
-    "v": "3.19.5",
-    "f": "RebornCore-1.12.2-3.19.5-universal.jar",
-    "a": "modmuss50, Gigabit101, Prospector",
-    "u": "https://github.com/TechReborn/RebornCore",
-    "m": "7ae0f971af00b7fea64dc850be957ddc"
   },
-  {
     "n": "Recurrent Complex",
     "v": "1.4.8.5",
     "f": "RecurrentComplex-1.4.8.5.jar",
