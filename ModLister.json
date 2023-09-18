@@ -761,12 +761,12 @@
     "m": "170d2946ffca047b8b427a4755f6d752"
   },
   {
-    "n": "Extended Crafting",
-    "v": "1.5.6",
-    "f": "ExtendedCrafting-1.12.2-1.5.6.jar",
-    "a": "BlakeBr0",
-    "u": "https://minecraft.curseforge.com/projects/extended-crafting",
-    "m": "2d0daf5586eeeb6e35fbdd6e980b9228"
+    "n": "ExtendedCrafting: Nomifactory Edition",
+    "v": "1.7.0",
+    "f": "ExtendedCrafting-Nomifactory-Edition-1.7.0.jar",
+    "a": "BlakeBr0, ALongStringOfNumbers, Eutropium, Exa4096, notmywing, dan",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/extended-crafting-nomifactory-edition",
+    "m": "a8be2c053f00b1168b3ce04f4793c3f0"
   },
   {
     "n": "Extra Bit Manipulation",
