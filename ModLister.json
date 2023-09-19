@@ -137,27 +137,27 @@
   },
   {
     "n": "Aroma1997Core",
-    "v": "2.0.0.2",
-    "f": "Aroma1997Core-1.12.2-2.0.0.2.jar",
+    "v": "2.0.0.2.b167",
+    "f": "Aroma1997Core-1.12.2-2.0.0.2.b167.jar",
     "a": "",
     "u": "http://www.minecraftforum.net/topic/1679684-",
-    "m": "f5199ab1a48d442af764071147a31747"
+    "m": "563a460fbaded01bf47835b84761a476"
   },
   {
     "n": "AromaBackup",
-    "v": "2.1.1.4",
-    "f": "AromaBackup-1.12.2-2.1.1.4.jar",
+    "v": "3.0.0.0.b135",
+    "f": "AromaBackup-1.12.2-3.0.0.0.b135.jar",
     "a": "",
     "u": "http://www.minecraftforum.net/topic/1679684-",
-    "m": "bf3cd3446876ee9c672dadf34db9f807"
+    "m": "6242f93881e5003ca031ccb1391dd6d7"
   },
   {
     "n": "AromaBackuprecovery",
-    "v": "2.1.1.4",
-    "f": "AromaBackup-1.12.2-2.1.1.4.jar",
+    "v": "3.0.0.0.b135",
+    "f": "AromaBackup-1.12.2-3.0.0.0.b135.jar",
     "a": "",
     "u": "http://www.minecraftforum.net/topic/1679684-",
-    "m": "bf3cd3446876ee9c672dadf34db9f807"
+    "m": "6242f93881e5003ca031ccb1391dd6d7"
   },
   {
     "n": "Astral Sorcery",
@@ -350,6 +350,14 @@
     "a": "jaquadro",
     "u": "http://www.jaquadro.com/",
     "m": "e42efa8f4fd42d2918128a826b740e98"
+  },
+  {
+    "n": "ChatFlow",
+    "v": "ANT:VERSION",
+    "f": "ChatFlow-1.4-7.jar",
+    "a": "",
+    "u": "",
+    "m": "5fdd2c93f1a6972071857f5a7fb7f3d1"
   },
   {
     "n": "Chisel",
@@ -552,6 +560,14 @@
     "m": "c12200ad89f9399d5bdcbe9da7900bb9"
   },
   {
+    "n": "Custom Nausea",
+    "v": "1.12.2-1.0",
+    "f": "customnausea-1.12.2-1.0.jar",
+    "a": "C4",
+    "u": "",
+    "m": "a82849cb5c730b5e224a52d5d545ff0b"
+  },
+  {
     "n": "Cyclic",
     "v": "1.20.12",
     "f": "Cyclic-1.12.2-1.20.14.jar",
@@ -566,6 +582,14 @@
     "a": "rubensworks (aka kroeserr), immortaleeb (aka _EeB_)",
     "u": "https://minecraft.curseforge.com/projects/cyclops-core",
     "m": "dc635fec13b1245323a58799fa6e6b39"
+  },
+  {
+    "n": "dan\u0027s Crafting Tweaks",
+    "v": "9.0.1",
+    "f": "CraftingTweaks_1.12.2-9.0.1.jar",
+    "a": "CleanroomMC, dan, BlayTheNinth",
+    "u": "",
+    "m": "47add0002138c9a9e689bda4ad28d811"
   },
   {
     "n": "Dark Utilities",
@@ -1016,6 +1040,14 @@
     "m": "553f65df6ce7f2c47f9390a3cb7d9867"
   },
   {
+    "n": "InGame Info XML",
+    "v": "2.8.2.94",
+    "f": "InGameInfoXML-1.12.2-2.8.2.94-universal.jar",
+    "a": "Lunatrius",
+    "u": "http://mc.lunatri.us/",
+    "m": "02a15a0cfbffc4bc530f2bd56b0b1a6c"
+  },
+  {
     "n": "Integrated Dynamics",
     "v": "1.1.11",
     "f": "IntegratedDynamics-1.12.2-1.1.11.jar",
@@ -1080,6 +1112,14 @@
     "m": "743179bc3a8f50751efbb019acc759a9"
   },
   {
+    "n": "Item Zoom",
+    "v": "1.11",
+    "f": "itemzoom_1.12.2-1.11.jar",
+    "a": "mezz",
+    "u": "https://minecraft.curseforge.com/projects/itemzoom/",
+    "m": "b1561486f9cdc305c50a7b7237b4317c"
+  },
+  {
     "n": "IvToolkit",
     "v": "1.3.3-1.12",
     "f": "minecraft.jar",
@@ -1102,6 +1142,14 @@
     "a": "bdew",
     "u": "http://bdew.net/",
     "m": "a4fef0a3bb6d401eb236b3fe3e1a4846"
+  },
+  {
+    "n": "JEI Utilities",
+    "v": "0.2.12",
+    "f": "JEI-Utilities-1.12.2-0.2.12.jar",
+    "a": "vfyjxf_",
+    "u": "",
+    "m": "30533181350278068a4fccfffa659986"
   },
   {
     "n": "Jeivillagers",
@@ -1158,6 +1206,14 @@
     "a": "Lykrast",
     "u": "",
     "m": "361e466e0669d0d9cf533fbf6aafe3f1"
+  },
+  {
+    "n": "Keyboard Wizard",
+    "v": "1.12.2-1.7.3",
+    "f": "keywizard-1.12.2-1.7.3.jar",
+    "a": "MrNerdy42",
+    "u": "",
+    "m": "c00876e68a57bff1f23d72e881903793"
   },
   {
     "n": "KleeSlabs",
@@ -1712,6 +1768,14 @@
     "m": "c779a8cd4fd0e99572385a529b790c73"
   },
   {
+    "n": "Server Tab Info",
+    "v": "1.2.6",
+    "f": "ServerTabInfo-1.12.2-1.2.6.jar",
+    "a": "black_dog20",
+    "u": "",
+    "m": "c3d7e8568e677169da1ed9e4a689df17"
+  },
+  {
     "n": "Shadowfacts\u0027 Forgelin",
     "v": "1.8.4",
     "f": "Forgelin-1.8.4.jar",
@@ -1726,6 +1790,22 @@
     "a": "quaternary",
     "u": "",
     "m": "6b37ae7975a21aea8ba47432e9895641"
+  },
+  {
+    "n": "Smooth Font",
+    "v": "mc1.12.2-2.1.4",
+    "f": "SmoothFont-mc1.12.2-2.1.4.jar",
+    "a": "bre2el",
+    "u": "https://minecraft.curseforge.com/projects/smooth-font",
+    "m": "88403da50505c2bdb1e751486add8677"
+  },
+  {
+    "n": "Smooth Font Core",
+    "v": "mc1.12.2-2.1.4",
+    "f": "minecraft.jar",
+    "a": "bre2el",
+    "u": "https://minecraft.curseforge.com/projects/smooth-font",
+    "m": ""
   },
   {
     "n": "SonarCore",
@@ -1750,6 +1830,14 @@
     "a": "Cazsius, Talonos, juliand665",
     "u": "https://minecraft.curseforge.com/projects/spice-of-life-carrot-edition",
     "m": "644c0f7f51a19fd1dce0cf4bdadfc52c"
+  },
+  {
+    "n": "StartupTimer",
+    "v": "1.0.0",
+    "f": "startuptimer-1.0.1.jar",
+    "a": "",
+    "u": "",
+    "m": "58ae85fb4ad2ea374e32d9c5aff50c6b"
   },
   {
     "n": "Storage Drawers",
