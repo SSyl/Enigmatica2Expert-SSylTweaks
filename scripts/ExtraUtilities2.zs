@@ -76,13 +76,21 @@
 	[<extrautils2:ingredients:16>, <draconicevolution:draconic_core>, <extrautils2:ingredients:16>], 
 	[<extrautils2:opinium:4>, <extrautils2:rainbowgenerator:1>, <extrautils2:opinium:4>]]);
 	
+# Ring Of The Flying Squid
+	recipes.remove(<extrautils2:chickenring:1>);
+	recipes.addShaped("Ring Of The Flying Squid",
+	<extrautils2:chickenring:1>, 
+	[[<extrautils2:ineffableglass>, <actuallyadditions:item_misc:19>, <extrautils2:ineffableglass>],
+	[<ore:plateDenseGold>, <extrautils2:chickenring>, <ore:plateDenseGold>], 
+	[<minecraft:golden_apple>, <extrautils2:goldenlasso>.withTag({Animal: {id: "minecraft:squid"}}), <minecraft:golden_apple>]]);
+	
 # Angel Ring
 	recipes.remove(<extrautils2:angelring:*>);
-	recipes.addShaped("Angel Rings", 
+	recipes.addShaped("Angel Ring", 
 	<extrautils2:angelring>, 
-	[[<extrautils2:ineffableglass>, <minecraft:elytra>.anyDamage(), <extrautils2:ineffableglass>],
-	[<ore:plateDenseGold>, <actuallyadditions:item_misc:19>, <ore:plateDenseGold>], 
-	[<minecraft:golden_apple>, <extrautils2:chickenring:1>.anyDamage(), <minecraft:golden_apple>]]);
+	[[<ore:plateDenseGold>, <<botania:flighttiara:*>, <ore:plateDenseGold>],
+	[<environmentaltech:modifier_creative_flight>, <extendedcrafting:material:40>, <environmentaltech:modifier_creative_flight>], 
+	[<ore:plateDenseGold>, <extrautils2:chickenring:1>.anyDamage(), <ore:plateDenseGold>]]);
 	
 # Angel Ring Conversion
 	recipes.addShapeless(<extrautils2:angelring:5>, [<ore:gemCoal>, <extrautils2:angelring:*>.anyDamage(), <ore:charcoal>]);
