@@ -424,6 +424,14 @@
     "m": "f2bfd74e76b71bdee8a20a9243dd5cdf"
   },
   {
+    "n": "Collective",
+    "v": "3.0",
+    "f": "collective-1.12.2-3.0.jar",
+    "a": "Rick South",
+    "u": "https://curseforge.com/minecraft/mc-mods/collective",
+    "m": "b5ca96a015a58fdc8afa2973abe7b0b0"
+  },
+  {
     "n": "Colytra",
     "v": "1.2.0.4",
     "f": "colytra-1.12.2-1.2.0.4.jar",
@@ -760,6 +768,14 @@
     "m": "88504a4baf501dea4657e1d97963395d"
   },
   {
+    "n": "EntityCulling",
+    "v": "6.4.1",
+    "f": "EntityCulling-1.12.2-6.4.1.jar",
+    "a": "Meldexun",
+    "u": "https://github.com/Meldexun/EntityCulling",
+    "m": "3120ceab1d55af70305d4c1e1eada107"
+  },
+  {
     "n": "Environmental Materials",
     "v": "@EM_VERSION@",
     "f": "environmentalmaterials-1.12.2-1.0.20.1.jar",
@@ -840,6 +856,14 @@
     "m": "1a9d559c5d183029733e1ddb4b15307b"
   },
   {
+    "n": "Fluidlogged API",
+    "v": "2.2.4",
+    "f": "Fluidlogged-API-v2.2.4-mc1.12.2.jar",
+    "a": "jbredwards",
+    "u": "https://github.com/jbredwards/Fluidlogged-API",
+    "m": "307b605738965ca21fdc07e9306d2d0a"
+  },
+  {
     "n": "Flux Networks",
     "v": "4.1.0",
     "f": "FluxNetworks-1.12.2-4.1.1.34.jar",
@@ -896,6 +920,14 @@
     "m": "517dfdcd8fd4f18ea117ead9c08779f8"
   },
   {
+    "n": "Friendly Chests",
+    "v": "1.0.3",
+    "f": "Friendly-Chests-v1.0.3-mc1.12.2.jar",
+    "a": "jbredwards",
+    "u": "https://github.com/jbredwards/Friendly-Chests",
+    "m": "25cf46f1b5482c943605d7cd09389425"
+  },
+  {
     "n": "FTB Library",
     "v": "5.4.7.2",
     "f": "FTBLib-5.4.7.2.jar",
@@ -910,6 +942,14 @@
     "a": "LatvianModder",
     "u": "http://minecraft.curseforge.com/projects/ftb-utilities",
     "m": "94775ab675e0204523c9f267976b70d5"
+  },
+  {
+    "n": "Gambling Style",
+    "v": "1.1.3",
+    "f": "GamblingStyle-v1.1.3-1.12.2.jar",
+    "a": "Fuzs",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/gambling-style",
+    "m": "79c3ef9241ae8a1d41fa7a0a9ca1e21b"
   },
   {
     "n": "GasConduits",
@@ -1256,6 +1296,14 @@
     "m": "218aefca8bd6bb8d9ff7dd877c1d277d"
   },
   {
+    "n": "LoliASM",
+    "v": "5.14",
+    "f": "censoredasm5.14.jar",
+    "a": "Rongmario",
+    "u": "https://github.com/LoliKingdom/LoliASM",
+    "m": "82d97e7c06fd7caa0478fe47cddbef66"
+  },
+  {
     "n": "Loot Capacitor Tooltips",
     "v": "1.3",
     "f": "lootcapacitortooltips-1.3.jar",
@@ -1472,12 +1520,28 @@
     "m": "c371deab2490ecd6a2689eed09302d23"
   },
   {
+    "n": "Nether Portal Spread",
+    "v": "5.4",
+    "f": "netherportalspread_1.12.2-5.4.jar",
+    "a": "Rick South",
+    "u": "https://curseforge.com/minecraft/mc-mods/nether-portal-spread",
+    "m": "30bbfacef1a7bc23b4f7a62cf6c5b922"
+  },
+  {
     "n": "Netherending Ores",
     "v": "1.12.2-1.3",
     "f": "Netherending-Ores-1.12.2-1.3.jar",
     "a": "ICannt Team",
     "u": "https://minecraft.curseforge.com/projects/netherending-ores/",
     "m": "53e63a42c0bd739d70b2d85764f287e2"
+  },
+  {
+    "n": "NetherPortalFix",
+    "v": "5.3.17",
+    "f": "NetherPortalFix_1.12.1-5.3.17.jar",
+    "a": "BlayTheNinth",
+    "u": "https://minecraft.curseforge.com/mc-mods/241160/",
+    "m": "97ff3e60aa9725cedbc64f19e179f813"
   },
   {
     "n": "NotEnoughEnergistics",
@@ -1592,6 +1656,14 @@
     "m": "e8e1ac67accdeea50116e1e92e592397"
   },
   {
+    "n": "Particle Culling",
+    "v": "v1.4.1",
+    "f": "particleculling-1.12.2-v1.4.1.jar",
+    "a": "bl4ckscor3",
+    "u": "",
+    "m": "d606e00d3cdef231b46d443725e65471"
+  },
+  {
     "n": "Patchouli",
     "v": "1.0-23.6",
     "f": "Patchouli-1.0-23.6.jar",
@@ -1702,6 +1774,14 @@
     "a": "Team CoFH",
     "u": "http://www.teamcofh.com",
     "m": "93b1715f05be1878da93fca36dd37f2a"
+  },
+  {
+    "n": "RenderLib",
+    "v": "1.3.3",
+    "f": "RenderLib-1.12.2-1.3.3.jar",
+    "a": "Meldexun",
+    "u": "https://github.com/Meldexun/RenderLib",
+    "m": "8f0f106a8e8d4080bb72f6034583e76d"
   },
   {
     "n": "Resource Loader",
@@ -1817,11 +1897,11 @@
   },
   {
     "n": "spark",
-    "v": "1.6.3",
-    "f": "spark-forge.jar",
+    "v": "1.5.2",
+    "f": "spark-forge1122.jar",
     "a": "",
     "u": "",
-    "m": "c07cf059777db6201d98e6794e60e0b4"
+    "m": "8a79a2678c3d91585fdd8cf07205ecc9"
   },
   {
     "n": "Spice of Life: Carrot Edition",
