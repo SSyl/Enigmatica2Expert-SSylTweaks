@@ -256,6 +256,14 @@
     "m": "9d364be3df6fee338c1729b7fb1def1b"
   },
   {
+    "n": "BitHop",
+    "v": "master-1.2.54",
+    "f": "BitHop-1.2.jar",
+    "a": "b0undarybreaker, capitalthree",
+    "u": "",
+    "m": "1cda8980ddb790b555c437c17a464c73"
+  },
+  {
     "n": "Blockcraftery",
     "v": "1.12.2-1.3.1",
     "f": "blockcraftery-1.12.2-1.3.1.jar",
@@ -832,6 +840,14 @@
     "m": "1ea591619e6d5204bf077214868772ef"
   },
   {
+    "n": "Fairy Lights",
+    "v": "2.1.10",
+    "f": "fairylights-2.2.0-1.12.2.jar",
+    "a": "pau101",
+    "u": "https://bit.ly/FairyLightsMod",
+    "m": "e6bc3eec7d73c3b5f2f1d88aa8b0f933"
+  },
+  {
     "n": "Farming for Blockheads",
     "v": "3.1.28",
     "f": "FarmingForBlockheads_1.12.2-3.1.28.jar",
@@ -1046,6 +1062,14 @@
     "a": "Flaxbeard",
     "u": "https://github.com/Flaxbeard/ImmersivePetroleum",
     "m": "f6a2be6438718a2b950d2fb6d21fac54"
+  },
+  {
+    "n": "Immersive Posts",
+    "v": "0.2.1",
+    "f": "ImmersivePosts-0.2.1.jar",
+    "a": "TwistedGate",
+    "u": "https://github.com/TwistedGate/ImmersivePosts",
+    "m": "d2df966203a439ee154642f01f09955e"
   },
   {
     "n": "Immersive Technology",
@@ -2206,6 +2230,14 @@
     "a": "McJty",
     "u": "",
     "m": "13935bce3f6b827aa19567a81e5be38f"
+  },
+  {
+    "n": "Xtones",
+    "v": "1.2.2",
+    "f": "Xtones-1.2.2.jar",
+    "a": "Chloe Dawn, TehNut, Dhvagra",
+    "u": "https://github.com/TehNut/Xtones",
+    "m": "21459d577650ece8962c63cab469ef2a"
   },
   {
     "n": "YNot",
