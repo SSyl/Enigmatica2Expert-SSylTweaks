@@ -104,3 +104,5 @@ config/vanillafix/methods-stable_39.csv
 jei_bookmarks.ini
 OpenComputersMod-*.dll
 config/tconstruct_oredictcache.dat
+
+*.7z
