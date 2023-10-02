@@ -9,6 +9,11 @@ mods.actuallyadditions.Crusher.removeRecipe(<appliedenergistics2:material>);
 	var pearlFluix = <ore:pearlFluix>;
 	var crystalCertus = <ore:crystalCertus>;
 
+# Smart Cable -> Dense
+	recipes.addShapeless("4 Smart Cables to Dense", 
+	<appliedenergistics2:part:76>, 
+	[<appliedenergistics2:part:56>,<appliedenergistics2:part:56>,<appliedenergistics2:part:56>,<appliedenergistics2:part:56>,<ore:dustRedstone>,<ore:dustGlowstone>]);
+
 # ---=== Storage Cell Helpers ===---
   function newCellRecipe(input as IIngredient, output as IItemStack) {
 	recipes.remove(output);
