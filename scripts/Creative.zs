@@ -262,11 +262,6 @@ var twilightForestMasterTrophy = <simple_trophies:trophy>.withTag({
 	[null, null, null, null, null, ultCatalyst, <buildinggadgets:exchangertool>.withTag({}), ultCatalyst, null], 
 	[null, null, null, null, null, null, ultCatalyst, ultCatalyst, null], 
 	[null, null, null, null, null, null, null, null, anglesite]]);
-	
-# Creative Wireless Crafting Terminal
-	recipes.addShapeless("Creative Wireless Crafting Terminal", 
-	<wct:wct_creative>, 
-	[<wct:wct>.withTag({}),<enderio:block_cap_bank>.withTag({"enderio:energy": 1000000000})]);
 
 # TIC Creative Modifier
 	mods.extendedcrafting.TableCrafting.addShaped(4, <tconstruct:materials:50>,

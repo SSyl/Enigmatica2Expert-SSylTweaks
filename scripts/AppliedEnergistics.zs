@@ -6,12 +6,6 @@ import crafttweaker.item.IIngredient as IIngredient;
 mods.immersiveengineering.Crusher.removeRecipe(<appliedenergistics2:material>);
 mods.actuallyadditions.Crusher.removeRecipe(<appliedenergistics2:material>);
 
-# Removing non-functional Extra Cells
-	recipes.remove(<aeadditions:storage.fluid:5>);
-	recipes.remove(<aeadditions:storage.fluid:6>);
-	recipes.remove(<aeadditions:storage.component:9>);
-	recipes.remove(<aeadditions:storage.component:10>);
-
 	var pearlFluix = <ore:pearlFluix>;
 	var crystalCertus = <ore:crystalCertus>;
 
@@ -300,10 +294,16 @@ scripts.process.saw(<ore:blockGold>, <appliedenergistics2:material:18> *  9, "on
 scripts.process.saw(<ore:blockDiamond>, <appliedenergistics2:material:17> *  9, "only: AdvRockCutter");
 scripts.process.saw(<ore:crystalPureCertusQuartz> * 9, <appliedenergistics2:material:16> *  9, "only: AdvRockCutter");
 
-# 256k Fluid Component to Lapis only
-	recipes.remove(<aeadditions:storage.component:8>);
-	recipes.addShapedMirrored("256k Fluid Storage",
-	<aeadditions:storage.component:8>,
-	[[<ore:gemLapis>,<appliedenergistics2:material:24>,<ore:gemLapis>],
-	[<appliedenergistics2:material:57>,<appliedenergistics2:material:22>,<appliedenergistics2:material:57>],
-	[<ore:gemLapis>,<appliedenergistics2:material:57>,<ore:gemLapis>]]);
+# AEadditions removals 
+
+var ae2fcrathome as IItemStack[] = [
+	<aeadditions:terminal.universal.wireless>.withTag({type: 0 as byte, modules: 23 as byte}),
+	<aeadditions:terminal.gas.wireless>.withTag({}),
+	<aeadditions:pattern.fluid>,
+	<aeadditions:fluidcrafter>,
+	<aeadditions:fluidfiller>
+];
+
+for item in ae2fcrathome {
+	mods.jei.JEI.removeAndHide(item);
+}
