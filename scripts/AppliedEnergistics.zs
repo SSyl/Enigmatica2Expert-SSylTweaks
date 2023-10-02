@@ -9,12 +9,6 @@ mods.actuallyadditions.Crusher.removeRecipe(<appliedenergistics2:material>);
 	var pearlFluix = <ore:pearlFluix>;
 	var crystalCertus = <ore:crystalCertus>;
 
-# Smart Cable -> Dense
-	recipes.addShapeless("4 Smart Cables to Dense", 
-	<appliedenergistics2:part:76>, 
-	[<appliedenergistics2:part:56>,<appliedenergistics2:part:56>,<appliedenergistics2:part:56>,<appliedenergistics2:part:56>,<ore:dustRedstone>,<ore:dustGlowstone>]);
-
-
 # ---=== Storage Cell Helpers ===---
   function newCellRecipe(input as IIngredient, output as IItemStack) {
 	recipes.remove(output);
@@ -188,7 +182,13 @@ mods.actuallyadditions.Crusher.removeRecipe(<appliedenergistics2:material>);
 # Lapis Dust
 	mods.appliedenergistics2.Grinder.addRecipe(<ic2:dust:9>, <minecraft:dye:4>, 4);
 
-
+# Fluid Discretizer
+	recipes.remove(<ae2fc:fluid_discretizer>);
+	recipes.addShaped("Fluid Discretizer", 
+	<ae2fc:fluid_discretizer>, 
+	[[<minecraft:iron_ingot>, <appliedenergistics2:material:24>, <minecraft:iron_ingot>],
+	[<appliedenergistics2:part:221>, <extendedcrafting:compressor>, <appliedenergistics2:part:220>], 
+	[<minecraft:iron_ingot>, <appliedenergistics2:material:24>, <minecraft:iron_ingot>]]);
 
 # If Channels are turned off in the config, these recipes will be changed
 	recipes.remove(<appliedenergistics2:quantum_ring>);
