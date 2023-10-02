@@ -4,7 +4,9 @@
 /crash-reports/
 /.mixin.out/
 /logs/
-/local/
+/local/ftbutilities/*
+/local/client/*
+!/local/client/sidebar_buttons.json
 /libraries/
 /llibrary/
 /saves/
