@@ -48,6 +48,14 @@
     "m": "bf1a378139732c167ac6be2ca836831c"
   },
   {
+    "n": "AE2 Fluid Crafting",
+    "v": "2.4.31-r",
+    "f": "Fluid Craft for AE2-2.4.31-r.jar",
+    "a": "GlodBlock",
+    "u": "",
+    "m": "217e1928a692299cade26876f5b6d217"
+  },
+  {
     "n": "AE2 Stuff",
     "v": "0.7.0.4",
     "f": "ae2stuff-0.7.0.4-mc1.12.2.jar",
@@ -57,19 +65,11 @@
   },
   {
     "n": "AE2 Unofficial Extended Life",
-    "v": "rv6-stable-7-extended_life-v0.55.22",
-    "f": "appliedenergistics2-rv6-stable-7-extended_life-v0.55.22.jar",
+    "v": "rv6-stable-7-extended_life-v0.55.23b",
+    "f": "appliedenergistics2-rv6-stable-7-extended_life-v0.55.23b.jar",
     "a": "AlgorithmX2",
     "u": "https://github.com/PrototypeTrousers/Applied-Energistics-2",
-    "m": "ad84790fcd1d92d7134cc11edaa6e79e"
-  },
-  {
-    "n": "AE2 Wireless Terminals (AE2WTLib)",
-    "v": "1.0.34",
-    "f": "AE2WTLib-1.12.2-1.0.34.jar",
-    "a": "TheRealp455w0rd",
-    "u": "",
-    "m": "fa9e9ca3b46eeb8710535d002067cf49"
+    "m": "bebf63bdc62527a1619f74d785228ebf"
   },
   {
     "n": "AI Reducer",
@@ -94,6 +94,14 @@
     "a": "Lothrazar",
     "u": "",
     "m": "0273df6a63f8abdcbd8489baadb4d1c6"
+  },
+  {
+    "n": "Animania",
+    "v": "2.0.3.28",
+    "f": "animania-1.12.2-base-2.0.3.28.jar",
+    "a": "RazzleberryFox, Purplicious_Cow, cy4n, Tschipp, ZeAmateis, Timmypote, Raptorfarian, vroulas, and TheJurassicAlien",
+    "u": "",
+    "m": "cf5ee25c687a45af26a8bf4f6dbab54e"
   },
   {
     "n": "Animus",
@@ -150,6 +158,46 @@
     "a": "Buuz135",
     "u": "",
     "m": "026c35a6fc0a431987c385e8512ebe36"
+  },
+  {
+    "n": "Armory Expansion",
+    "v": "1.4.2",
+    "f": "armoryexpansion-1.4.2.jar",
+    "a": "YaibaToKen",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/armory-expansion",
+    "m": "8f0c1e2132892c72af510f1ccfe8a688"
+  },
+  {
+    "n": "Armory Expansion - Construct\u0027s Armory",
+    "v": "1.4.2",
+    "f": "armoryexpansion-1.4.2.jar",
+    "a": "YaibaToKen",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/armory-expansion",
+    "m": "8f0c1e2132892c72af510f1ccfe8a688"
+  },
+  {
+    "n": "Armory Expansion - Custom Materials",
+    "v": "1.4.2",
+    "f": "armoryexpansion-1.4.2.jar",
+    "a": "YaibaToKen",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/armory-expansion",
+    "m": "8f0c1e2132892c72af510f1ccfe8a688"
+  },
+  {
+    "n": "Armory Expansion - Ice and Fire",
+    "v": "1.4.2",
+    "f": "armoryexpansion-1.4.2.jar",
+    "a": "YaibaToKen",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/armory-expansion",
+    "m": "8f0c1e2132892c72af510f1ccfe8a688"
+  },
+  {
+    "n": "Armory Expansion - MatterOverdrive",
+    "v": "1.4.2",
+    "f": "armoryexpansion-1.4.2.jar",
+    "a": "",
+    "u": "",
+    "m": "8f0c1e2132892c72af510f1ccfe8a688"
   },
   {
     "n": "Aroma1997Core",
@@ -248,6 +296,14 @@
     "m": "9009a4d080caf4d31e4ef8edba1f90cf"
   },
   {
+    "n": "Better Animals Plus",
+    "v": "9.0.1",
+    "f": "betteranimalsplus-1.12.2-9.0.1.jar",
+    "a": "cybercat5555, its_meow (hiotewdew)",
+    "u": "https://minecraft.curseforge.com/projects/betteranimalsplus",
+    "m": "154144d50500329125deac9304c4c23f"
+  },
+  {
     "n": "Better Builder\u0027s Wands",
     "v": "0.13.2",
     "f": "BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar",
@@ -278,14 +334,6 @@
     "a": "Adubbz, Amnet, Cheeserolls, Forstride, ted80",
     "u": "http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty",
     "m": "9d364be3df6fee338c1729b7fb1def1b"
-  },
-  {
-    "n": "BitHop",
-    "v": "master-1.2.54",
-    "f": "BitHop-1.2.jar",
-    "a": "b0undarybreaker, capitalthree",
-    "u": "",
-    "m": "1cda8980ddb790b555c437c17a464c73"
   },
   {
     "n": "Blockcraftery",
@@ -510,6 +558,14 @@
     "a": "CleanroomMC",
     "u": "",
     "m": "feab07e8b137b1087888a7ec99546b5d"
+  },
+  {
+    "n": "Construct\u0027s Armory",
+    "v": "1.2.5.10",
+    "f": "conarm-1.12.2-1.2.5.10.jar",
+    "a": "C4",
+    "u": "",
+    "m": "b5bf1c931ac479b7678bea8b8624ac9f"
   },
   {
     "n": "ContentTweaker",
@@ -1080,6 +1136,14 @@
     "m": "343263945c11d317456b30c7c143f5e3"
   },
   {
+    "n": "HungerTweaker",
+    "v": "1.3.0",
+    "f": "HungerTweaker-1.12.2-1.3.0.jar",
+    "a": "CoolSquid",
+    "u": "https://minecraft.curseforge.com/projects/hungertweaker",
+    "m": "17ecbbc595e93be393bc9a7c319dbe6c"
+  },
+  {
     "n": "IC2 Tweaker",
     "v": "0.2.1+build.4",
     "f": "ic2-tweaker-0.2.1+build.4.jar",
@@ -1360,6 +1424,14 @@
     "m": "dfcd1031d0a98ff6d10d754385f199cb"
   },
   {
+    "n": "libnine",
+    "v": "1.2.1",
+    "f": "libnine-1.12.2-1.2.1.jar",
+    "a": "phantamanta44",
+    "u": "",
+    "m": "220b67b80ac5b7700b8198227caf1d96"
+  },
+  {
     "n": "LLibrary",
     "v": "1.7.20",
     "f": "llibrary-1.7.20-1.12.2.jar",
@@ -1369,11 +1441,11 @@
   },
   {
     "n": "LoliASM",
-    "v": "5.14",
-    "f": "censoredasm5.14.jar",
+    "v": "5.16",
+    "f": "censoredasm5.16.jar",
     "a": "Rongmario",
     "u": "https://github.com/LoliKingdom/LoliASM",
-    "m": "82d97e7c06fd7caa0478fe47cddbef66"
+    "m": "225e9ec7aaf7253fc22ff3b7b05912e3"
   },
   {
     "n": "Loot Capacitor Tooltips",
@@ -1614,6 +1686,14 @@
     "a": "BlayTheNinth",
     "u": "https://minecraft.curseforge.com/mc-mods/241160/",
     "m": "97ff3e60aa9725cedbc64f19e179f813"
+  },
+  {
+    "n": "Not Enough Pets",
+    "v": "2.3.6",
+    "f": "NotEnoughPets-1.12.2-2.3.6.jar",
+    "a": "AstroTibs",
+    "u": "https://modrinth.com/mod/not-enough-pets",
+    "m": "148307a926ea2cd6f93f262098728394"
   },
   {
     "n": "NotEnoughEnergistics",
@@ -1944,6 +2024,14 @@
     "m": "c779a8cd4fd0e99572385a529b790c73"
   },
   {
+    "n": "Seared Ladder",
+    "v": "1.1.2",
+    "f": "Seared-Ladder-v1.1.2-mc1.12.2.jar",
+    "a": "jbredwards",
+    "u": "https://github.com/jbredwards/Seared-Ladder-Backport-Mod",
+    "m": "006707eaf72ffe8d7ccece5146cd3866"
+  },
+  {
     "n": "Server Tab Info",
     "v": "1.2.6",
     "f": "ServerTabInfo-1.12.2-1.2.6.jar",
@@ -2152,6 +2240,14 @@
     "m": "f9253fe86c6649afbf49d221c71ba19a"
   },
   {
+    "n": "Tinkers\u0027 Addons",
+    "v": "1.0.10",
+    "f": "Tinkers\u0027 Addons-1.12.2-1.0.10.jar",
+    "a": "",
+    "u": "",
+    "m": "4806fa46290c618b885ae7b1b2079d36"
+  },
+  {
     "n": "Tinkers\u0027 Complement",
     "v": "1.12.2-0.4.3",
     "f": "TinkersComplement-1.12.2-0.4.3.jar",
@@ -2166,6 +2262,14 @@
     "a": "boni, KnightMiner",
     "u": "https://github.com/SlimeKnights/TinkersConstruct",
     "m": "710d64342d41042b7d6ced891448e727"
+  },
+  {
+    "n": "Tinkers\u0027 Evolution",
+    "v": "1.0.44",
+    "f": "tconevo-1.12.2-1.0.44.jar",
+    "a": "phantamanta44",
+    "u": "",
+    "m": "745995ffb1fd9a621b7677582c2da30a"
   },
   {
     "n": "Tips",
@@ -2224,12 +2328,36 @@
     "m": "126f7eb6c487b6fb10407f301ea48782"
   },
   {
+    "n": "Tweakers Construct",
+    "v": "1.12.2-1.6.1",
+    "f": "tweakersconstruct-1.12.2-1.6.1.jar",
+    "a": "RCXcrafter",
+    "u": "https://minecraft.curseforge.com/projects/tweakers-construct",
+    "m": "0bf038a37f752b134be45e9123055561"
+  },
+  {
+    "n": "Tweakers Construct Post Load",
+    "v": "1.12.2-1.6.1",
+    "f": "tweakersconstruct-1.12.2-1.6.1.jar",
+    "a": "RCXcrafter",
+    "u": "https://minecraft.curseforge.com/projects/tweakers-construct",
+    "m": "0bf038a37f752b134be45e9123055561"
+  },
+  {
     "n": "UniDict",
     "v": "1.12.2-3.0.10",
     "f": "UniDict-1.12.2-3.0.10.jar",
     "a": "WanionCane, ElektroKill",
     "u": "http://minecraft.curseforge.com/projects/unidict",
     "m": "82e3fc598749e2cf620cff62f10d9edd"
+  },
+  {
+    "n": "Unifine",
+    "v": "1.12.2-0.1.0",
+    "f": "Unifine-1.12.2-0.1.0.jar",
+    "a": "",
+    "u": "",
+    "m": "6be91b6f815694b82306e524c9c6729c"
   },
   {
     "n": "Universal Modifiers",
@@ -2264,6 +2392,14 @@
     "m": "e9bfd5d4274395d87c0bea745a37223a"
   },
   {
+    "n": "Village Names",
+    "v": "4.4.6",
+    "f": "VillageNames-1.12.2-4.4.6.jar",
+    "a": "AstroTibs",
+    "u": "https://modrinth.com/mod/village-names",
+    "m": "7c90620676783c61adf4693504e78322"
+  },
+  {
     "n": "Villager Market",
     "v": "1.0.2",
     "f": "villager-market-1.12.2-1.0.2.jar",
@@ -2280,20 +2416,20 @@
     "m": "f5b3a43fd2f82ec39ad04e5392079d6e"
   },
   {
+    "n": "Waddles",
+    "v": "0.6.0",
+    "f": "Waddles-1.12.2-0.6.0.jar",
+    "a": "Girafi",
+    "u": "https://minecraft.curseforge.com/projects/waddles",
+    "m": "3ec84aac5bf45959934669bf1c1548a9"
+  },
+  {
     "n": "WanionLib",
     "v": "1.12.2-2.9",
     "f": "WanionLib-1.12.2-2.9.jar",
     "a": "WanionCane",
     "u": "http://minecraft.curseforge.com/projects/wanionlib",
     "m": "37e954391f25d6ad63362ff26f7771c9"
-  },
-  {
-    "n": "Wireless Crafting Terminal 2",
-    "v": "3.12.97",
-    "f": "WirelessCraftingTerminal-1.12.2-3.12.97.jar",
-    "a": "TheRealp455w0rd",
-    "u": "",
-    "m": "fcaacca63f3eab9eaa8b4efbe85add86"
   },
   {
     "n": "WrapUp",
@@ -2326,5 +2462,21 @@
     "a": "asie",
     "u": "http://asie.pl/",
     "m": "88164b3766ded7c2636b4ba0f19ed198"
+  },
+  {
+    "n": "YUNG\u0027s Better Caves",
+    "v": "1.12.2",
+    "f": "bettercaves-1.12.2-2.0.4.jar",
+    "a": "YUNGNICKYOUNG",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves",
+    "m": "ceb9c88ab5f8f3514a28ad7244b81757"
+  },
+  {
+    "n": "YUNG\u0027s Better Mineshafts",
+    "v": "1.12.2-2.2.1",
+    "f": "BetterMineshaftsForge-1.12.2-2.2.1.jar",
+    "a": "YUNGNICKYOUNG",
+    "u": "",
+    "m": "1e7f37157821c872095a45e1379700d0"
   }
 ]
