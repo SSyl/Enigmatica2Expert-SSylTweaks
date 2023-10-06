@@ -116,6 +116,11 @@
         "output": "minecraft:concrete:15"
     },
     {
+        "fluidName": "animania_honey",
+        "input": "exnihilocreatio:hive:0",
+        "output": "exnihilocreatio:hive:1"
+    },
+    {
         "fluidName": "for.honey",
         "input": "exnihilocreatio:hive:0",
         "output": "exnihilocreatio:hive:1"
