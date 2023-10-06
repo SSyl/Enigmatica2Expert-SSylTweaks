@@ -24,6 +24,14 @@
     "m": "71b8dfb3383bf90c615ff4be27f425b7"
   },
   {
+    "n": "Advanced Fishing",
+    "v": "1.3.3",
+    "f": "Advanced-Fishing-1.12.2-1.3.3.jar",
+    "a": "NightKosh",
+    "u": "",
+    "m": "45d6f18d0ac8075b0cb65d2bde83ebdd"
+  },
+  {
     "n": "Advanced Generators",
     "v": "0.9.20.12",
     "f": "generators-0.9.20.12-mc1.12.2.jar",
@@ -232,6 +240,14 @@
     "m": "cd4d52c46b76651ad3f3ee36961ca8fd"
   },
   {
+    "n": "asielib",
+    "v": "1.0.0",
+    "f": "Computronics-1.12.2-1.6.6.jar",
+    "a": "asiekierka, Vexatos",
+    "u": "",
+    "m": "5e88b6e4939690a2067bf31f870a5577"
+  },
+  {
     "n": "Astral Sorcery",
     "v": "1.10.27",
     "f": "astralsorcery-1.12.2-1.10.27.jar",
@@ -297,11 +313,19 @@
   },
   {
     "n": "Better Animals Plus",
-    "v": "9.0.1",
-    "f": "betteranimalsplus-1.12.2-9.0.1.jar",
+    "v": "1.12.2",
+    "f": "betteranimalsplusplus-4-13-2022b.jar",
     "a": "cybercat5555, its_meow (hiotewdew)",
     "u": "https://minecraft.curseforge.com/projects/betteranimalsplus",
-    "m": "154144d50500329125deac9304c4c23f"
+    "m": "434972cc31407c8579771e7785894d2b"
+  },
+  {
+    "n": "Better Biome Blend",
+    "v": "1.12.2-1.1.7-forge",
+    "f": "betterbiomeblend-1.12.2-1.1.7-forge.jar",
+    "a": "FionaTheMortal",
+    "u": "https://github.com/FionaTheMortal/better-biome-blend",
+    "m": "6ccdc64158479267c78237682e977040"
   },
   {
     "n": "Better Builder\u0027s Wands",
@@ -334,6 +358,14 @@
     "a": "Adubbz, Amnet, Cheeserolls, Forstride, ted80",
     "u": "http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty",
     "m": "9d364be3df6fee338c1729b7fb1def1b"
+  },
+  {
+    "n": "Block Drops",
+    "v": "1.4.0",
+    "f": "blockdrops-1.12.2-1.4.0.jar",
+    "a": "MrRiegel",
+    "u": "",
+    "m": "ab28c4a2f73286da49f224e7b3ffd696"
   },
   {
     "n": "Blockcraftery",
@@ -374,6 +406,14 @@
     "a": "brandon3055",
     "u": "http://minecraft.curseforge.com/projects/brandons-core",
     "m": "4a67ccad9d684466010c02164d7ff13e"
+  },
+  {
+    "n": "Bring me the rings!",
+    "v": "0.4",
+    "f": "BringMeTheRings-0.4.jar",
+    "a": "Zabi94",
+    "u": "",
+    "m": "d0a5e0658dfdc807f0f84dba6d0dc11a"
   },
   {
     "n": "Broken Wings",
@@ -536,6 +576,14 @@
     "m": "bdd2457d21b0007d44b04a4cc5acd3ef"
   },
   {
+    "n": "commons0815",
+    "v": "1.4.0",
+    "f": "Commons0815-1.12.2-1.4.0.jar",
+    "a": "",
+    "u": "",
+    "m": "c906c66a6282d142b4186c9dcd0a6cc2"
+  },
+  {
     "n": "Compact Machines 3",
     "v": "3.0.18",
     "f": "compactmachines3-1.12.2-3.0.18-b278.jar",
@@ -550,6 +598,14 @@
     "a": "cpw",
     "u": "http://forum.industrial-craft.net/index.php?page\u003dThread\u0026threadID\u003d4827",
     "m": "bcfbc1b879fd0d06443ac9ca2774a5a0"
+  },
+  {
+    "n": "Computronics",
+    "v": "1.6.6",
+    "f": "Computronics-1.12.2-1.6.6.jar",
+    "a": "asiekierka, Techokami, Vexatos",
+    "u": "",
+    "m": "5e88b6e4939690a2067bf31f870a5577"
   },
   {
     "n": "ConfigAnytime",
@@ -720,6 +776,14 @@
     "m": "1ed732e64caad803eec9809117cf34cc"
   },
   {
+    "n": "Doggy Talents",
+    "v": "1.15.1.6",
+    "f": "DoggyTalents-1.12.2-1.15.1.6.jar",
+    "a": "percivalalb",
+    "u": "https://minecraft.curseforge.com/projects/doggy-talents/",
+    "m": "1c6d3797984e4bf2b6f01c177a99c59b"
+  },
+  {
     "n": "Draconic Evolution",
     "v": "2.3.28",
     "f": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
@@ -734,6 +798,14 @@
     "a": "Lothrazar, Elucent, CrazyPants",
     "u": "https://minecraft.curseforge.com/projects/emberroot-zoo",
     "m": "fc4bfe7a354de71ac7e3ec2d69655f54"
+  },
+  {
+    "n": "Enchantment Descriptions",
+    "v": "1.1.20",
+    "f": "EnchantmentDescriptions-1.12.2-1.1.20.jar",
+    "a": "Darkhax",
+    "u": "http://www.darkhax.net",
+    "m": "0e5200aecbd4ecba622b49a8d0f6e2a7"
   },
   {
     "n": "End: Reborn",
@@ -928,14 +1000,6 @@
     "m": "a8be2c053f00b1168b3ce04f4793c3f0"
   },
   {
-    "n": "Extra Bit Manipulation",
-    "v": "1.12.2-3.4.1",
-    "f": "ExtraBitManipulation-1.12.2-3.4.1.jar",
-    "a": "Phylogeny",
-    "u": "http://minecraft.curseforge.com/projects/extra-bit-manipulation",
-    "m": "0e748d7c4e9f5724ef8daa997334fa02"
-  },
-  {
     "n": "Extra Utilities 2",
     "v": "1.0",
     "f": "extrautils2-1.12-1.9.9.jar",
@@ -952,6 +1016,14 @@
     "m": "e6bc3eec7d73c3b5f2f1d88aa8b0f933"
   },
   {
+    "n": "Fancier Block Particles",
+    "v": "0.7",
+    "f": "fbp-0.7.jar",
+    "a": "Red Studio",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/fancier-block-particles",
+    "m": "0c73f5fa29dea1cec9da881bb6c3e46b"
+  },
+  {
     "n": "Farming for Blockheads",
     "v": "3.1.28",
     "f": "FarmingForBlockheads_1.12.2-3.1.28.jar",
@@ -966,6 +1038,14 @@
     "a": "Shadows_of_Fire",
     "u": "",
     "m": "b84cc8a587dbd35fef2dbc3e0b9435aa"
+  },
+  {
+    "n": "Fishing Made Better",
+    "v": "2.2.6",
+    "f": "FishingMadeBetter-1.12.2-2.2.6.jar",
+    "a": "TheAwesomeGem, Fonnymunkey",
+    "u": "https://www.curseforge.com/members/fonnymunkey/projects",
+    "m": "8394477fdd329979d798212b76afce69"
   },
   {
     "n": "Flat Colored Blocks",
@@ -1064,6 +1144,14 @@
     "m": "94775ab675e0204523c9f267976b70d5"
   },
   {
+    "n": "Fullscreen Windowed",
+    "v": "1.6.0",
+    "f": "FullscreenWindowed-1.12-1.6.0-1.jar",
+    "a": "Hancin",
+    "u": "https://github.com/hancin/Fullscreen-Windowed-Minecraft",
+    "m": "cd5b76d56febaff111225f2af4a21fbd"
+  },
+  {
     "n": "Gambling Style",
     "v": "1.1.3",
     "f": "GamblingStyle-v1.1.3-1.12.2.jar",
@@ -1102,6 +1190,14 @@
     "a": "Tombenpotter, TehNut",
     "u": "",
     "m": "117d3d825059fceb0c1d04f8701beb00"
+  },
+  {
+    "n": "guiToolkit",
+    "v": "1.4.0",
+    "f": "Commons0815-1.12.2-1.4.0.jar",
+    "a": "ben-mkiv",
+    "u": "https://github.com/ben-mkiv/guiToolkit",
+    "m": "c906c66a6282d142b4186c9dcd0a6cc2"
   },
   {
     "n": "GunpowderLib",
@@ -1185,11 +1281,11 @@
   },
   {
     "n": "Immersive Technology",
-    "v": "1.9.100",
-    "f": "MCTImmersiveTechnology-1.12.2-1.9.100.jar",
+    "v": "1.9.101",
+    "f": "MCTImmersiveTechnology-1.12.2-1.9.101.jar",
     "a": "TGstyle, Kurtchekov",
     "u": "https://www.curseforge.com/minecraft/mc-mods/mct-immersive-technology",
-    "m": "6dd8d4590b7502241643fc1ca42ff47a"
+    "m": "8c213ffa4fe590aea97fe8b7c7ec1380"
   },
   {
     "n": "InControl",
@@ -1369,11 +1465,11 @@
   },
   {
     "n": "Just Enough Resources",
-    "v": "0.9.2.60",
-    "f": "JustEnoughResources-1.12.2-0.9.2.60.jar",
+    "v": "0.9.3.203",
+    "f": "JustEnoughResources-1.12.2-0.9.3.203.jar",
     "a": "way2muchnoise",
     "u": "",
-    "m": "87a4666549a60d8fb423883dd4ee6232"
+    "m": "b49c004480296133bbd6f1ccea7f2763"
   },
   {
     "n": "Just Enough Throwing In Fluids",
@@ -1400,22 +1496,6 @@
     "m": "e669180a9c891603beea7c7fcb6df7ef"
   },
   {
-    "n": "LagGoggles",
-    "v": "FAT-1.12.2-4.11-92",
-    "f": "LagGoggles-FAT-1.12.2-4.11-92.jar",
-    "a": "Terminator_NL",
-    "u": "https://minecraft.curseforge.com/projects/laggoggles",
-    "m": "24586a499a3a1c624e8f8fed235cbbce"
-  },
-  {
-    "n": "Lapis Stays in the Enchanting Table",
-    "v": "1.1.3",
-    "f": "EnchantingTable-1.12-1.1.3.jar",
-    "a": "crazysnailboy",
-    "u": "https://minecraft.curseforge.com/projects/lapis-stays-in-the-enchanting-table/",
-    "m": "fbfd70a18d887fd9bc08dd25ff91d61a"
-  },
-  {
     "n": "Let Me Sleep",
     "v": "1.2.2",
     "f": "LetMeSleep-v1.2.3-1.12.2.jar",
@@ -1430,6 +1510,14 @@
     "a": "phantamanta44",
     "u": "",
     "m": "220b67b80ac5b7700b8198227caf1d96"
+  },
+  {
+    "n": "Light Level Overlay Reloaded",
+    "v": "1.1.6-mc1.12.2",
+    "f": "LLOverlayReloaded-1.1.6-mc1.12.2.jar",
+    "a": "oldjunyi",
+    "u": "www.mmyzd.com",
+    "m": "23f498874f1596b7a8c167ec4327b360"
   },
   {
     "n": "LLibrary",
@@ -1582,6 +1670,22 @@
     "a": "HellFirePvP, wiiv",
     "u": "https://minecraft.curseforge.com/projects/modular-machinery",
     "m": "57dca58a7c55b6413af7b25afcad58c2"
+  },
+  {
+    "n": "More Sound Config",
+    "v": "1.0.4",
+    "f": "moresoundconfig-1.0.4.jar",
+    "a": "ichttt",
+    "u": "",
+    "m": "14e0bce12838471d2a83cb1e29c99571"
+  },
+  {
+    "n": "More Sound Config Core",
+    "v": "1.0.0",
+    "f": "minecraft.jar",
+    "a": "ichttt",
+    "u": "",
+    "m": ""
   },
   {
     "n": "MoreDefaultOptions",
@@ -1760,6 +1864,22 @@
     "m": ""
   },
   {
+    "n": "OpenComputers Sensors",
+    "v": "1.0.4",
+    "f": "ocsensors-1.0.4-b23.jar",
+    "a": "Davenonymous",
+    "u": "",
+    "m": "b4907f7bab0af39dd235a58082fdcdf7"
+  },
+  {
+    "n": "OpenGlasses",
+    "v": "@VERSION@-53",
+    "f": "OpenGlasses-MC1.12.2-2.2-53.jar",
+    "a": "marcin212, magik6000, ben-mkiv",
+    "u": "https://github.com/StarChasers/OCGlasses",
+    "m": "008af83a1e7371ab43a3d5293cf645c0"
+  },
+  {
     "n": "OpenModsLib",
     "v": "0.12.2",
     "f": "OpenModsLib-1.12.2-0.12.2.jar",
@@ -1774,6 +1894,14 @@
     "a": "Mikee, NeverCast, boq",
     "u": "https://openmods.info/",
     "m": ""
+  },
+  {
+    "n": "OpenSecurity",
+    "v": "1.0-93",
+    "f": "OpenSecurity-1.12.2-1.0-93.jar",
+    "a": "",
+    "u": "",
+    "m": "7c14ac096cd7b72da011278a78c5109c"
   },
   {
     "n": "OreDictInit",
@@ -1801,11 +1929,11 @@
   },
   {
     "n": "PackagedAuto",
-    "v": "1.12.2-1.0.9.33",
-    "f": "PackagedAuto-1.12.2-1.0.9.33.jar",
+    "v": "1.12.2-1.0.9.34",
+    "f": "PackagedAuto-1.12.2-1.0.9.34.jar",
     "a": "TheLMiffy1111",
     "u": "",
-    "m": "47dd63c80d72448ad07830ae728e25ff"
+    "m": "a2c005f0d0aa9c1f7195eaedd9246c59"
   },
   {
     "n": "Pam\u0027s HarvestCraft",
@@ -1857,11 +1985,11 @@
   },
   {
     "n": "PlusTiC",
-    "v": "8.0.5",
-    "f": "plustic-8.0.5.jar",
+    "v": "8.0.6",
+    "f": "plustic-8.0.6.jar",
     "a": "Landmaster (phuong0429)",
     "u": "https://minecraft.curseforge.com/projects/plustic",
-    "m": "c658e43409ddedbc54c3afd3ea4df2fc"
+    "m": "f1db4bd7c0437b452b831c5bd4807a09"
   },
   {
     "n": "Pretty Beaches",
@@ -1942,6 +2070,14 @@
     "a": "Meldexun",
     "u": "https://github.com/Meldexun/RenderLib",
     "m": "8f0f106a8e8d4080bb72f6034583e76d"
+  },
+  {
+    "n": "renderToolkit",
+    "v": "1.4.0",
+    "f": "Commons0815-1.12.2-1.4.0.jar",
+    "a": "ben-mkiv",
+    "u": "https://github.com/ben-mkiv/renderToolkit",
+    "m": "c906c66a6282d142b4186c9dcd0a6cc2"
   },
   {
     "n": "Resizing Potion",
@@ -2088,14 +2224,6 @@
     "m": "02c6264bdfa66c5895aed1d739109420"
   },
   {
-    "n": "spark",
-    "v": "1.5.2",
-    "f": "spark-forge1122.jar",
-    "a": "",
-    "u": "",
-    "m": "8a79a2678c3d91585fdd8cf07205ecc9"
-  },
-  {
     "n": "Spice of Life: Carrot Edition",
     "v": "1.8.4",
     "f": "solcarrot-1.12.2-1.8.4.jar",
@@ -2230,6 +2358,14 @@
     "a": "GKB, tokomikea",
     "u": "http://minecraft.curseforge.com/mc-mods/229503-tinker-i-o",
     "m": "4736bd776d4fbbdf3324cc11a249cc6b"
+  },
+  {
+    "n": "Tinker\u0027s JEI",
+    "v": "1.2",
+    "f": "tinkersjei-1.2.jar",
+    "a": "possible_triangle",
+    "u": "",
+    "m": "b2b7946fdd352745f75a9676f0df51a3"
   },
   {
     "n": "Tinkers Tool Leveling",
@@ -2425,11 +2561,11 @@
   },
   {
     "n": "WanionLib",
-    "v": "1.12.2-2.9",
-    "f": "WanionLib-1.12.2-2.9.jar",
+    "v": "1.12.2-2.91",
+    "f": "WanionLib-1.12.2-2.91.jar",
     "a": "WanionCane",
     "u": "http://minecraft.curseforge.com/projects/wanionlib",
-    "m": "37e954391f25d6ad63362ff26f7771c9"
+    "m": "a41aeddecb2e002bef2f19fe7aae9093"
   },
   {
     "n": "WrapUp",
