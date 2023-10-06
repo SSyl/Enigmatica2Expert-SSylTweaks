@@ -34,11 +34,5 @@
     "destinationFilePath": "journeymap/server/5.7/journeymap.server.global.config",
     "clientSide": true,
     "serverSide": true
-  },
-  {
-    "sourceFilePath": "sidebar_buttons.json",
-    "destinationFilePath": "local/client/sidebar_buttons.json",
-    "clientSide": true,
-    "serverSide": false
   }
 ]
