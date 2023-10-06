@@ -6,8 +6,6 @@ import mods.jei.JEI.removeAndHide as rh;
 	
 #priority 1000
 
-<ore:chipDiamond>.add(<extrabitmanipulation:diamond_nugget>);
-
 # Oredicts for pressure plates
 var pressurePlates as IItemStack[] = [
 	<twilightforest:twilight_oak_plate>,
