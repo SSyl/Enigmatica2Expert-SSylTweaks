@@ -73,11 +73,11 @@
   },
   {
     "n": "AE2 Unofficial Extended Life",
-    "v": "rv6-stable-7-extended_life-v0.55.23b",
-    "f": "appliedenergistics2-rv6-stable-7-extended_life-v0.55.23b.jar",
+    "v": "rv6-stable-7-extended_life-v0.55.24",
+    "f": "appliedenergistics2-rv6-stable-7-extended_life-v0.55.24.jar",
     "a": "AlgorithmX2",
     "u": "https://github.com/PrototypeTrousers/Applied-Energistics-2",
-    "m": "bebf63bdc62527a1619f74d785228ebf"
+    "m": "fc41f2751f4955d24df6281e17c31b7a"
   },
   {
     "n": "AI Reducer",
@@ -94,6 +94,14 @@
     "a": "Vazkii",
     "u": "http://www.vazkii.us",
     "m": "b753c7ce93ad8768e3ba3a9f35d16bee"
+  },
+  {
+    "n": "Alfheim",
+    "v": "1.0.2",
+    "f": "Alfheim-1.0.2.jar",
+    "a": "Red Studio",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine",
+    "m": "89e949fd369745d6ca0e6b217075b4db"
   },
   {
     "n": "Anger Management",
@@ -768,6 +776,14 @@
     "m": "672e81d68ebdf0ac8a4cd9f78a38a770"
   },
   {
+    "n": "Default Options",
+    "v": "9.2.8",
+    "f": "DefaultOptions_1.12.2-9.2.8.jar",
+    "a": "BlayTheNinth",
+    "u": "http://blay09.net",
+    "m": "5510673c0fad1e3b6617b3d97d54b3d5"
+  },
+  {
     "n": "Demagnetize",
     "v": "1.12.2-1.1.2",
     "f": "demagnetize-1.12.2-1.1.2.jar",
@@ -1216,14 +1232,6 @@
     "m": "2de0f88cf353bcec6034748aa5b8da3b"
   },
   {
-    "n": "Hesperus, fork from Phosphor",
-    "v": "1.12.2-0.2.9.3",
-    "f": "phosphor-1.12.2-0.2.9.3-SNAPSHOT.jar",
-    "a": "Angeline (@jellysquid), embeddedt",
-    "u": "https://minecraft.curseforge.com/projects/hesperus",
-    "m": "a694f15c9b318def5a02978d361a1fd6"
-  },
-  {
     "n": "Horse Tweaks",
     "v": "1.0.5",
     "f": "HorseTweaks_1.12.2-1.0.5.jar",
@@ -1432,12 +1440,12 @@
     "m": "8b033b22b0c01c0d0d1f6eedc88a20ea"
   },
   {
-    "n": "JourneyMap",
-    "v": "1.12.2-5.7.1",
-    "f": "journeymap-1.12.2-5.7.1.jar",
-    "a": "techbrew, mysticdrew",
-    "u": "http://journeymap.info",
-    "m": "8160b970fc14cff30dff2785bb9f964c"
+    "n": "Just Enough Effects",
+    "v": "1.0.3",
+    "f": "JustEnoughEffects-1.0.3.jar",
+    "a": "3DPinball, Sliver",
+    "u": "",
+    "m": "9e9a59b19c02a13de1a0b70b31be8ab3"
   },
   {
     "n": "Just Enough HarvestCraft",
@@ -1529,11 +1537,11 @@
   },
   {
     "n": "LoliASM",
-    "v": "5.16",
-    "f": "censoredasm5.16.jar",
+    "v": "5.18",
+    "f": "censoredasm5.18.jar",
     "a": "Rongmario",
     "u": "https://github.com/LoliKingdom/LoliASM",
-    "m": "225e9ec7aaf7253fc22ff3b7b05912e3"
+    "m": "9f3dab152a5d7069c62c7c33b39b64f0"
   },
   {
     "n": "Loot Capacitor Tooltips",
@@ -1777,11 +1785,11 @@
   },
   {
     "n": "Netherending Ores",
-    "v": "1.12.2-1.3",
-    "f": "Netherending-Ores-1.12.2-1.3.jar",
+    "v": "1.12.2-1.4.2",
+    "f": "Netherending-Ores-1.12.2-1.4.2.jar",
     "a": "ICannt Team",
     "u": "https://minecraft.curseforge.com/projects/netherending-ores/",
-    "m": "53e63a42c0bd739d70b2d85764f287e2"
+    "m": "f6f2092157d79907e6876c7871eaf66a"
   },
   {
     "n": "NetherPortalFix",
@@ -1806,6 +1814,14 @@
     "a": "vfyjxf",
     "u": "",
     "m": "251552ca271b890d4d78df2b9b641a8f"
+  },
+  {
+    "n": "Nothirium",
+    "v": "0.3.4-beta",
+    "f": "Nothirium-1.12.2-0.3.4-beta.jar",
+    "a": "Meldexun",
+    "u": "https://github.com/Meldexun/Nothirium",
+    "m": "2e396173ed571d8a32dfbe0729c67850"
   },
   {
     "n": "NuclearCraft",
@@ -1960,6 +1976,14 @@
     "m": "5450477c1ce7189c5ee11595d5e03a7c"
   },
   {
+    "n": "Persistency",
+    "v": "1.2.0",
+    "f": "minecraft.jar",
+    "a": "Rongmario",
+    "u": "",
+    "m": ""
+  },
+  {
     "n": "Placebo",
     "v": "1.6.0",
     "f": "Placebo-1.12.2-1.6.1.jar",
@@ -2046,6 +2070,14 @@
     "a": "Ivorius",
     "u": "",
     "m": "5b718cd92c2526427e877cb2a99a5c97"
+  },
+  {
+    "n": "Red Core",
+    "v": "0.5-Dev-3",
+    "f": "!Red-Core-MC-1.7-1.12-0.5-Dev-3.jar",
+    "a": "Red Studio",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/red-core",
+    "m": "10c0dc12dc1ce03006ed2b08d92ce57e"
   },
   {
     "n": "Redstone Arsenal",
@@ -2200,6 +2232,14 @@
     "m": "6b37ae7975a21aea8ba47432e9895641"
   },
   {
+    "n": "Sledgehammer",
+    "v": "1.12.2-2.0.23",
+    "f": "Sledgehammer-1.12.2-2.0.23.jar",
+    "a": "LX_Gaming",
+    "u": "https://lxgaming.github.io/",
+    "m": "e4a6b066aed534b844b57b7001c2aa56"
+  },
+  {
     "n": "Smooth Font",
     "v": "mc1.12.2-2.1.4",
     "f": "SmoothFont-mc1.12.2-2.1.4.jar",
@@ -2294,6 +2334,14 @@
     "a": "jco2641",
     "u": "",
     "m": "497a14224b5103d11771c1844be02ab6"
+  },
+  {
+    "n": "Thaumic Speedup",
+    "v": "4.0",
+    "f": "thaumicspeedup-4.0.jar",
+    "a": "Rongmario",
+    "u": "",
+    "m": "ff25ec376c570d1002b246c7386a0ab7"
   },
   {
     "n": "Thaumic Tinkerer",
@@ -2414,14 +2462,6 @@
     "a": "Darkhax",
     "u": "",
     "m": "1f3cc3576b2e67ea46446445d765a203"
-  },
-  {
-    "n": "TipTheScales",
-    "v": "1.0.4",
-    "f": "TipTheScales-1.12.2-1.0.4.jar",
-    "a": "Jared",
-    "u": "",
-    "m": "eb4bba23a510da1a6f9c4e916c45714f"
   },
   {
     "n": "Tomb Many Graves",
@@ -2574,6 +2614,38 @@
     "a": "TheLMiffy1111",
     "u": "",
     "m": "d6e426631f7d9eb1f86ef0523870811a"
+  },
+  {
+    "n": "Xaero\u0027s Minimap",
+    "v": "23.8.3",
+    "f": "Xaeros_Minimap_23.8.3_Forge_1.12.jar",
+    "a": "Xaero96",
+    "u": "",
+    "m": "c87b765abd9264347056b0cf84f75799"
+  },
+  {
+    "n": "Xaero\u0027s World Map",
+    "v": "1.35.0",
+    "f": "XaerosWorldMap_1.35.0_Forge_1.12.jar",
+    "a": "Xaero96",
+    "u": "",
+    "m": "3e58e2f19ecd06daec809fe29592faa4"
+  },
+  {
+    "n": "XaeroMinimapCore",
+    "v": "1.12.2-1.0",
+    "f": "minecraft.jar",
+    "a": "Xaero",
+    "u": "",
+    "m": ""
+  },
+  {
+    "n": "XaeroWorldMapCore",
+    "v": "1.12.2-1.0",
+    "f": "minecraft.jar",
+    "a": "Xaero",
+    "u": "",
+    "m": ""
   },
   {
     "n": "XNet",
