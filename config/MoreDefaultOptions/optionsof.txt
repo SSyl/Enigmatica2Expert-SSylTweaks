@@ -66,7 +66,7 @@ ofCustomEntityModels:true
 ofCustomGuis:true
 ofShowGlErrors:false
 ofFullscreenMode:1920x1080
-ofFastMath:true
+ofFastMath:false
 ofFastRender:false
 ofTranslucentBlocks:0
 key_of.key.zoom:46
