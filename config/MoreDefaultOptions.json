@@ -4,5 +4,11 @@
     "destinationFilePath": "optionsof.txt",
     "clientSide": true,
     "serverSide": false
+  },
+  {
+    "sourceFilePath": "optionsshaders.txt",
+    "destinationFilePath": "optionsshaders.txt",
+    "clientSide": true,
+    "serverSide": false
   }
 ]
