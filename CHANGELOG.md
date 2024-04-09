@@ -1,5 +1,20 @@
 ### Enigmatica 2: Expert Changelog
 
+## 1.90h
+
+_Forge-1.12.2-14.23.5.2860_ | _[Modlist](https://github.com/NillerMedDild/Enigmatica2Expert/blob/master/changelogs/modlist_1.90h.md)_ | _[Mod Updates](https://github.com/NillerMedDild/Enigmatica2Expert/blob/master/changelogs/CHANGELOG_MODS_1.90h.md)_
+
+**Fixed bugs**
+
+-   Crash on startup when using older java versions [\#2177](https://github.com/EnigmaticaModpacks/Enigmatica2Expert/issues/2177)
+
+**Improvements**
+
+-   Change inventory panel recipe to be friendlier to earlygame [\#2164](https://github.com/EnigmaticaModpacks/Enigmatica2Expert/pull/2164) by ([Risa-G](https://github.com/Risa-G))
+-   Add bat spawn egg recipe to market [\#2172](https://github.com/EnigmaticaModpacks/Enigmatica2Expert/pull/2172) by ([ghatus0](https://github.com/ghatus0))
+
+---
+
 ## 1.90g
 
 _Forge-1.12.2-14.23.5.2860_ | _[Modlist](https://github.com/NillerMedDild/Enigmatica2Expert/blob/master/changelogs/modlist_1.90g.md)_ | _[Mod Updates](https://github.com/NillerMedDild/Enigmatica2Expert/blob/master/changelogs/CHANGELOG_MODS_1.90g.md)_
